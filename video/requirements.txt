@@ -1,6 +1,0 @@
-opencv-python>=4.8.0
-ultralytics>=8.0.0
-pandas>=2.0.0
-imageio[ffmpeg]>=2.31.0
-moviepy>=2.0.0
-spacy>=3.8.0
