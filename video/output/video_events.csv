@@ -1,0 +1,165 @@
+Timestamp,Frame_ID,Event_Detected,Objects,Confidence
+00:00:00,FRM_0010,Unidentified Motion,none,0.0
+00:00:00,FRM_0020,Unidentified Motion,none,0.0
+00:00:01,FRM_0030,Unidentified Motion,none,0.0
+00:00:01,FRM_0040,Person Walking,1 person,0.6
+00:00:02,FRM_0050,Unidentified Motion,none,0.0
+00:00:02,FRM_0060,Person Walking,1 person,0.79
+00:00:02,FRM_0070,Person Walking,1 person,0.69
+00:00:03,FRM_0080,Unidentified Motion,1 bird,0.73
+00:00:05,FRM_0130,Unidentified Motion,none,0.0
+00:00:05,FRM_0140,Unidentified Motion,none,0.0
+00:00:06,FRM_0150,Person Walking,1 person,0.47
+00:00:06,FRM_0160,Unidentified Motion,1 bird,0.59
+00:00:06,FRM_0170,Unidentified Motion,none,0.0
+00:00:07,FRM_0180,Unidentified Motion,none,0.0
+00:00:07,FRM_0190,Unidentified Motion,none,0.0
+00:00:19,FRM_0490,Unidentified Motion,none,0.0
+00:00:20,FRM_0500,Unidentified Motion,1 bird,0.6
+00:00:20,FRM_0510,Unidentified Motion,none,0.0
+00:00:20,FRM_0520,Unidentified Motion,1 bird,0.53
+00:00:21,FRM_0530,Unidentified Motion,1 bird,0.47
+00:00:21,FRM_0540,Multiple Persons / Crowd,2 person,0.46
+00:00:22,FRM_0550,Unidentified Motion,1 bird,0.53
+00:00:22,FRM_0560,Unidentified Motion,1 bird,0.73
+00:00:22,FRM_0570,Unidentified Motion,none,0.0
+00:00:23,FRM_0580,Person Walking,1 person,0.76
+00:00:23,FRM_0590,Unidentified Motion,1 bird,0.54
+00:00:24,FRM_0600,Unidentified Motion,1 bird,0.66
+00:00:24,FRM_0610,Person Walking,1 person,0.74
+00:00:24,FRM_0620,Unidentified Motion,none,0.0
+00:00:31,FRM_0790,Unidentified Motion,none,0.0
+00:00:32,FRM_0800,Unidentified Motion,1 dog,0.52
+00:00:32,FRM_0810,Unidentified Motion,none,0.0
+00:00:32,FRM_0820,Unidentified Motion,none,0.0
+00:00:34,FRM_0860,Unidentified Motion,none,0.0
+00:00:34,FRM_0870,Person Walking,1 person,0.48
+00:00:36,FRM_0900,Unidentified Motion,none,0.0
+00:00:39,FRM_0990,Person Walking,1 person,0.71
+00:00:40,FRM_1000,Unidentified Motion,1 bird,0.53
+00:00:40,FRM_1010,Person Walking,1 person,0.71
+00:00:40,FRM_1020,Unidentified Motion,1 bird,0.7
+00:00:41,FRM_1030,Unidentified Motion,none,0.0
+00:00:41,FRM_1040,Unidentified Motion,1 bird,0.41
+00:00:00,FRM_0010,Fighting / Altercation,none,0.0
+00:00:00,FRM_0020,Fighting / Altercation,none,0.0
+00:00:01,FRM_0030,Fighting / Altercation,1 person,0.53
+00:00:01,FRM_0040,Fighting / Altercation,none,0.0
+00:00:02,FRM_0050,Fighting / Altercation,none,0.0
+00:00:03,FRM_0080,Fighting / Altercation,1 person,0.65
+00:00:03,FRM_0090,Fighting / Altercation,1 person,0.67
+00:00:04,FRM_0100,Fighting / Altercation,1 bird,0.55
+00:00:04,FRM_0110,Fighting / Altercation,none,0.0
+00:00:05,FRM_0130,Fighting / Altercation,1 bird,0.41
+00:00:05,FRM_0140,Fighting / Altercation,1 person,0.45
+00:00:06,FRM_0150,Fighting / Altercation,none,0.0
+00:00:06,FRM_0160,Fighting / Altercation,2 person,0.52
+00:00:06,FRM_0170,Fighting / Altercation,1 person,0.75
+00:00:07,FRM_0180,Fighting / Altercation,none,0.0
+00:00:07,FRM_0190,Fighting / Altercation,1 person,0.84
+00:00:08,FRM_0200,Fighting / Altercation,1 person,0.45
+00:00:08,FRM_0210,Fighting / Altercation,2 person,0.48
+00:00:09,FRM_0240,Fighting / Altercation,none,0.0
+00:00:10,FRM_0250,Fighting / Altercation,none,0.0
+00:00:10,FRM_0260,Fighting / Altercation,1 person,0.7
+00:00:10,FRM_0270,Fighting / Altercation,1 person,0.54
+00:00:11,FRM_0290,Fighting / Altercation,1 person,0.47
+00:00:12,FRM_0300,Fighting / Altercation,1 person,0.64
+00:00:12,FRM_0310,Fighting / Altercation,none,0.0
+00:00:12,FRM_0320,Fighting / Altercation,1 person,0.64
+00:00:14,FRM_0360,Fighting / Altercation,1 person,0.54
+00:00:19,FRM_0480,Fighting / Altercation,1 bird,0.59
+00:00:19,FRM_0490,Fighting / Altercation,1 person,0.72
+00:00:20,FRM_0500,Fighting / Altercation,none,0.0
+00:00:20,FRM_0510,Fighting / Altercation,1 person,0.69
+00:00:20,FRM_0520,Fighting / Altercation,none,0.0
+00:00:21,FRM_0530,Fighting / Altercation,1 person,0.75
+00:00:21,FRM_0540,Fighting / Altercation,1 bird,0.62
+00:00:22,FRM_0550,Fighting / Altercation,1 bird,0.77
+00:00:22,FRM_0560,Fighting / Altercation,1 bird,0.81
+00:00:22,FRM_0570,Fighting / Altercation,none,0.0
+00:00:23,FRM_0580,Fighting / Altercation,1 bird,0.61
+00:00:23,FRM_0590,Fighting / Altercation,1 person,0.82
+00:00:24,FRM_0610,Fighting / Altercation,1 person,0.87
+00:00:24,FRM_0620,Fighting / Altercation,1 bird,0.61
+00:00:25,FRM_0630,Fighting / Altercation,none,0.0
+00:00:25,FRM_0640,Fighting / Altercation,1 bird,0.48
+00:00:26,FRM_0650,Fighting / Altercation,1 bird,0.5
+00:00:26,FRM_0660,Fighting / Altercation,none,0.0
+00:00:26,FRM_0670,Fighting / Altercation,1 person,0.76
+00:00:27,FRM_0680,Fighting / Altercation,none,0.0
+00:00:27,FRM_0690,Fighting / Altercation,none,0.0
+00:00:28,FRM_0700,Fighting / Altercation,1 bird,0.6
+00:00:28,FRM_0720,Fighting / Altercation,1 bird,0.49
+00:00:29,FRM_0730,Fighting / Altercation,none,0.0
+00:00:29,FRM_0740,Fighting / Altercation,none,0.0
+00:00:30,FRM_0750,Fighting / Altercation,none,0.0
+00:00:30,FRM_0760,Fighting / Altercation,none,0.0
+00:00:30,FRM_0770,Fighting / Altercation,none,0.0
+00:00:31,FRM_0780,Fighting / Altercation,none,0.0
+00:00:31,FRM_0790,Fighting / Altercation,none,0.0
+00:00:32,FRM_0800,Fighting / Altercation,none,0.0
+00:00:01,FRM_0030,Fighting / Altercation,1 person,0.67
+00:00:01,FRM_0040,Fighting / Altercation,none,0.0
+00:00:02,FRM_0050,Fighting / Altercation,none,0.0
+00:00:02,FRM_0060,Fighting / Altercation,none,0.0
+00:00:02,FRM_0070,Fighting / Altercation,none,0.0
+00:00:03,FRM_0080,Fighting / Altercation,none,0.0
+00:00:03,FRM_0090,Fighting / Altercation,none,0.0
+00:00:09,FRM_0240,Fighting / Altercation,1 person,0.84
+00:00:10,FRM_0250,Fighting / Altercation,none,0.0
+00:00:10,FRM_0260,Fighting / Altercation,1 person,0.5
+00:00:10,FRM_0270,Fighting / Altercation,none,0.0
+00:00:11,FRM_0280,Fighting / Altercation,none,0.0
+00:00:11,FRM_0290,Fighting / Altercation,1 person,0.74
+00:00:12,FRM_0300,Fighting / Altercation,1 person,0.61
+00:00:12,FRM_0310,Fighting / Altercation,1 person,0.55
+00:00:12,FRM_0320,Fighting / Altercation,1 bird,0.4
+00:00:14,FRM_0350,Fighting / Altercation,1 person,0.67
+00:00:14,FRM_0360,Fighting / Altercation,1 person,0.41
+00:00:15,FRM_0380,Fighting / Altercation,none,0.0
+00:00:15,FRM_0390,Fighting / Altercation,none,0.0
+00:00:16,FRM_0400,Fighting / Altercation,none,0.0
+00:00:06,FRM_0170,Unidentified Motion,none,0.0
+00:00:07,FRM_0180,Unidentified Motion,none,0.0
+00:00:07,FRM_0190,Unidentified Motion,none,0.0
+00:00:08,FRM_0200,Unidentified Motion,none,0.0
+00:00:08,FRM_0210,Unidentified Motion,none,0.0
+00:00:08,FRM_0220,Unidentified Motion,1 bird,0.51
+00:00:09,FRM_0230,Unidentified Motion,none,0.0
+00:00:09,FRM_0240,Person Walking,1 person,0.59
+00:00:10,FRM_0250,Person Walking,"1 person, 1 bird",0.41
+00:00:10,FRM_0260,Unidentified Motion,1 bird,0.5
+00:00:10,FRM_0270,Person Walking,"1 person, 1 bird",0.52
+00:00:11,FRM_0280,Person Walking,1 person,0.53
+00:00:11,FRM_0290,Unidentified Motion,1 bird,0.53
+00:00:12,FRM_0300,Unidentified Motion,none,0.0
+00:00:12,FRM_0310,Unidentified Motion,none,0.0
+00:00:12,FRM_0320,Unidentified Motion,none,0.0
+00:00:13,FRM_0330,Unidentified Motion,none,0.0
+00:00:13,FRM_0340,Unidentified Motion,none,0.0
+00:00:14,FRM_0350,Unidentified Motion,none,0.0
+00:00:14,FRM_0360,Unidentified Motion,none,0.0
+00:00:00,FRM_0010,Person Collapsing,none,0.0
+00:00:02,FRM_0070,Person Collapsing,2 bird,0.8
+00:00:08,FRM_0200,Person Collapsing,"1 person, 1 bird",0.57
+00:00:08,FRM_0210,Person Collapsing,1 person,0.68
+00:00:08,FRM_0220,Person Collapsing,none,0.0
+00:00:09,FRM_0230,Person Collapsing,1 person,0.83
+00:00:09,FRM_0240,Person Collapsing,none,0.0
+00:00:10,FRM_0250,Person Collapsing,none,0.0
+00:00:10,FRM_0260,Person Collapsing,1 person,0.54
+00:00:10,FRM_0270,Person Collapsing,none,0.0
+00:00:11,FRM_0280,Person Collapsing,none,0.0
+00:00:24,FRM_0620,Person Collapsing,none,0.0
+00:00:25,FRM_0630,Person Collapsing,none,0.0
+00:00:25,FRM_0640,Person Collapsing,1 bird,0.62
+00:00:26,FRM_0650,Person Collapsing,1 bird,0.4
+00:00:26,FRM_0660,Person Collapsing,1 person,0.64
+00:00:27,FRM_0690,Person Collapsing,1 person,0.74
+00:00:38,FRM_0950,Person Collapsing,1 person,0.58
+00:00:38,FRM_0960,Person Collapsing,2 person,0.65
+00:00:38,FRM_0970,Person Collapsing,"1 person, 1 bird",0.52
+00:00:39,FRM_0980,Person Collapsing,1 bird,0.63
+00:00:39,FRM_0990,Person Collapsing,none,0.0
+00:00:40,FRM_1000,Person Collapsing,1 bird,0.63

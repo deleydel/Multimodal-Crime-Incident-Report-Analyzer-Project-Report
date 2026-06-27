@@ -37,37 +37,14 @@ Output is saved to `output/video_events.csv`.
 2. **Motion detection** — frame difference + contour area threshold (500 px²)
 3. **Object detection** — YOLOv8n on motion frames (confidence > 0.4)
 4. **Event classification** — maps detected objects + clip name to event label
-5. **CSV generation** — one row per motion event with VID- prefixed Incident_ID
+5. **CSV generation** — one row per motion event
 
 ## Output Schema
 
 | Column | Description |
 |---|---|
-| Incident_ID | VID-001, VID-002, ... |
-| Video_File | Source .mpg filename |
 | Timestamp | HH:MM:SS of the frame |
 | Frame_ID | FRM_XXXX (frame number) |
-| Event_Detected | Event label |
-| Objects | YOLO detections with confidence |
-| Confidence | Max YOLO confidence (0.0–1.0) |
-| Severity | Low / Medium / High |
-
-## Severity Thresholds
-
-| Confidence | Severity |
-|---|---|
-| 0.7 – 1.0 | High |
-| 0.3 – 0.7 | Medium |
-| 0.0 – 0.3 | Low |
-
-## Integration (for Student 6)
-
-The CSV uses `VID-` prefixed Incident_IDs. Columns that map to the unified schema:
-
-| Unified column | This module's column |
-|---|---|
-| Source | "Video" |
-| Event | Event_Detected |
-| Location | N/A (CAVIAR has no location metadata) |
-| Time | Timestamp |
-| Severity | Severity |
+| Event_Detected | Event label (e.g. Person Walking, Fighting / Altercation) |
+| Objects | Count-based YOLO detections (e.g. `2 person, 1 car`) |
+| Confidence | Max YOLO confidence (0.0–1.0); 0.0 if no detection |
