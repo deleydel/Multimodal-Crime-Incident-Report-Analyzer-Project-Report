@@ -1,0 +1,8 @@
+Drop the incident image files (.jpg / .jpeg / .png / .bmp / .webp) you want to
+analyze into this folder, then run from the repository root:
+
+    python images/image_analyzer.py
+
+The script writes its structured output to images/image_report.csv.
+(The image_report.csv already committed in the parent folder was produced from
+the original project image set, which is not redistributed in this repository.)
