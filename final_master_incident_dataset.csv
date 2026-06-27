@@ -1,0 +1,1032 @@
+Incident_ID,Source,Source_Record_ID,Event,Location,Time,Severity_Score,Severity_Level,Details
+AUD-001,Audio,C001,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: one
+AUD-002,Audio,C002,Crime/Assault,Blocopia Bank,N/A,8.5,High,Sentiment: Distressed | Transcript: This is the Blocopia Bank in 1302 with the Transnational Speedway call of art. Okay.
+AUD-003,Audio,C003,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Yeah? Yeah. Yeah. Yeah. Yeah. Yeah.
+AUD-004,Audio,C004,Fire/Structure Incident,Nelson Building,N/A,8.5,High,"Sentiment: Distressed | Transcript: Yes, we're at the Nelson building and there's some men here with the bus to clean into the board meeting. Okay, you're at"
+AUD-005,Audio,C005,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Listen, we're playing really bad at this. Okay, so get on our track, mate. People, you gotta track, mate, you b****."
+AUD-006,Audio,C006,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: They've switched completely off, They've switched completely off. They've switched completely off, They've switched completely off They've switched completely ..."
+AUD-007,Audio,C007,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I'm locking in the field and I'm looking for a champ. You're walking in the field. OK, and you should just stop. OK, I'm going to try to find you."
+AUD-008,Audio,C008,Emergency Report,Presse,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Les gens en danger n' influencent pas le député de l'obnage pour la Presse. Les janvier vert,Сnogalie. Les dons de députéeane le berget sed fringe. Un servant ..."
+AUD-009,Audio,C009,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: And mostly, uh yeah, I haven't Muthler. We are shattering down here. I'll go over here."
+AUD-010,Audio,C010,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: maybe it is out there but is called a truck, with a truck too, proceed. Okay."
+AUD-011,Audio,C011,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, that's two sub-pro here that's the 8 on the ground. Okay, he did get it."
+AUD-012,Audio,C012,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I mean, I'll wait behind the... ...and the fighters won't turn off."
+AUD-013,Audio,C013,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm here at the police station. I'm going to hold. Okay.
+AUD-014,Audio,C014,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, ma'am, I need to go out and leave quickly. Down the church. Change."
+AUD-015,Audio,C015,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Ma'am, my cat is a person. I had to go find it."
+AUD-016,Audio,C016,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Hello? Hello? Hello? Hello? Oh, that one was..."
+AUD-017,Audio,C017,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: at 47 09 40th Avenue, and they find our edge plateau pad."
+AUD-018,Audio,C018,Crime/Assault,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: I need somebody escorted out of my store right away. He's causing problems.
+AUD-019,Audio,C019,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Hello! Hello! Hello 911!
+AUD-020,Audio,C020,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I got three people, the second people, thank you. They're taking kids? Yes sir."
+AUD-021,Audio,C021,Crime/Assault,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: Hey, um, they just woke into my house. They had guns. They told us to just be on the floor. They're splousers like"
+AUD-022,Audio,C022,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Um, I took some pills and um, the pills were really good mad, and um..."
+AUD-023,Audio,C023,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: All right, well, the thing is, I was just flying with my buddy. You were sliding? I was just flying with my buddy."
+AUD-024,Audio,C024,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: If somebody stays with Diane, I'm home alone and he's not here. My daughter is here. If somebody is here, quick."
+AUD-025,Audio,C025,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I don't have an emergency tube for this stuff, it just left my house just now."
+AUD-026,Audio,C026,Fire/Structure Incident,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: My house is on fire. I don't know how to sleep in and I'll go to someone doom and I'll
+AUD-027,Audio,C027,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Hi, my name is Maria. I'm calling because my teacher, Mr. Haines,"
+AUD-028,Audio,C028,Crime/Assault,La,N/A,8.5,High,"Sentiment: Distressed | Transcript: Yes, I have a gun and I don't it's from LA car loaded and something just got shot."
+AUD-029,Audio,C029,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I have a friend who's been drinking, I've been trying to help him since him too. He is now loading several weapons in a minute."
+AUD-030,Audio,C030,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I'm a police at where the heck am I? 291 water counts, three to immediately. We just had bullets."
+AUD-031,Audio,C031,Crime/Assault,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: I'm not sure my friend is called and basically told me she was going to kill herself and I think she probably will.
+AUD-032,Audio,C032,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: with the address, 750 south to 50 west."
+AUD-033,Audio,C033,Fire/Structure Incident,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: emergency. Fire. Cutting wood. So, what's the location?"
+AUD-034,Audio,C034,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: It's not my, I mean, I haven't made it, I haven't possible, I haven't won overdose."
+AUD-035,Audio,C035,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: called you like a pretending mums voice gets a little messed up
+AUD-036,Audio,C036,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yeah man, I'm a bit late today and we're in the road. We're going to see the gas."
+AUD-037,Audio,C037,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: pumping the 29 and putting back thoseumps and I just ran as far as it's coming down the long lane
+AUD-038,Audio,C038,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Now, I won't let you know that I'm sleepy. But I heard my doorbell ringing out."
+AUD-039,Audio,C039,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Please come down here. What's your, what? I don't know that address. You're gonna have to be in the end of the answers."
+AUD-040,Audio,C040,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: What was your weekend of a playboy end down a month in park? A plane going down, months in park. We went down, it was..."
+AUD-041,Audio,C041,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Oh, somebody is coming. Somebody help. What's going on?"
+AUD-042,Audio,C042,Crime/Assault,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: Somebody was trying to rob us. She got tight right now. We're holding her down. Okay. What address you at?
+AUD-043,Audio,C043,Traffic Accident,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Hello? Hello, I'm floating down the river in my car. Okay, what river are you on? I'm..."
+AUD-044,Audio,C044,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, I need an ambulance on hard stones. Okay, we're in the airport."
+AUD-045,Audio,C045,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: with that little boy missing. Have you had any reports on one? No, I'm sure haven't."
+AUD-046,Audio,C046,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: We need police. Let's find a bike by 5.23. Let's find on them, man."
+AUD-047,Audio,C047,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: man please help me I'm a county road 900 to 600 will build the TV towers and
+AUD-048,Audio,C048,Emergency Report,America,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I'm working to please my, I'm with you right here at America. I don't need largest, but"
+AUD-049,Audio,C049,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm not a prospect but I need to have somebody go to my brother's house.
+AUD-050,Audio,C050,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: one one. Hey, my friend is having a feature. Where are you at?"
+AUD-051,Audio,C051,Crime/Assault,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: Hello? Yes. We've just been robbed. Where? 220,000."
+AUD-052,Audio,C052,Crime/Assault,Springs Community School,N/A,8.5,High,"Sentiment: Distressed | Transcript: High Springs Community School, I called 911 a few minutes ago. We have, I heard several gunshots outside."
+AUD-053,Audio,C053,Emergency Report,South Reno,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yeah, I need an ambulance to 12 mark in South Reno. Okay, let's go on. Others."
+AUD-054,Audio,C054,Emergency Report,Tea & Athletic,N/A,4.0,Medium,Sentiment: Calm | Transcript: but I'm leavingMANUS to Tea & Athletic should be on call to you Apple的話 to orders I don't know if he has any details In Octital рав
+AUD-055,Audio,C055,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: 4980. I'm talking to my daughter right now. 4980. I'm talking to my daughter. Listen to me. Who is it? Three from the middle.
+AUD-056,Audio,C056,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: It's been a demolishing of a house and there is a woman inside and we need someone to come
+AUD-057,Audio,C057,Crime/Assault,Big Five,N/A,8.5,High,"Sentiment: Distressed | Transcript: to help you. Hi, this is Latisha from store Big Five on Green Valley. I have a person that is robbing me."
+AUD-058,Audio,C058,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, ma'am, my neighbor just ran over so someone tried to kill her in her house. I don't know what."
+AUD-059,Audio,C059,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: 901My cleanse is beingught out. Political text decree in the most of the unusable.
+AUD-060,Audio,C060,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yeah, I've got kind of like a knife. My father don't leave a little bit of air. He's 79 years old."
+AUD-061,Audio,C061,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: My husband is up in the attic and he's not responding.
+AUD-062,Audio,C062,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I need to report a murder. Okay, where is that? 157 red-"
+AUD-063,Audio,C063,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yeah, it's very much right there in the back. I just think I just found out where you are."
+AUD-064,Audio,C064,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm Joan Pearson and I just killed two people.
+AUD-065,Audio,C065,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Hey, I told you some rally. We've got a medical aburge that 4500"
+AUD-066,Audio,C066,Emergency Report,Target,N/A,4.0,Medium,Sentiment: Calm | Transcript: I just got back from work. From Target. I'm at 330.
+AUD-067,Audio,C067,Emergency Report,Westport Shopping Center,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, we need an ambulance. We're at Westport Shopping Center right outside."
+AUD-068,Audio,C068,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: No, no, no! No, no! No, no!"
+AUD-069,Audio,C069,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, excuse me, so some helicopter is came down. The helicopter came down."
+AUD-070,Audio,C070,Traffic Accident,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, helicopter just crashed. A helicopter just crashed? Yes, sir. I think we're about to get started."
+AUD-071,Audio,C071,Crime/Assault,Avenue,N/A,8.5,High,"Sentiment: Distressed | Transcript: Good enough, Avenue. Someone is running around the neighborhood shooting a gun. Okay, they're in a car."
+AUD-072,Audio,C072,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Hey, who's it? Sheriff's office can I help you? Yeah, who's this, Gendy? Who's it?"
+AUD-073,Audio,C073,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: of your emergency. A month has spoken to my house and my time is taking. Please come hurry. Okay, what's your address?"
+AUD-074,Audio,C074,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Do I need any of them to please after or won't? Okay, you need a police officer? Yeah"
+AUD-075,Audio,C075,Emergency Report,Third Avenue,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Oh my God, I'm on third Avenue to wherever I'll track somebody just tried to jump on the train and sever her legs."
+AUD-076,Audio,C076,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I hopped, there's a sitting on arm, yeah, like we're sitting. Sitting with, sitting there, I hopped, in the ass."
+AUD-077,Audio,C077,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: obviously.
+AUD-078,Audio,C078,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I have just smothered my way.
+AUD-079,Audio,C079,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: We're on the boat right now. My friend says, got it by the shark. We have to make..."
+AUD-080,Audio,C080,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, I got I just shot someone in my business on that 59 31"
+AUD-081,Audio,C081,Emergency Report,Silbeach,N/A,4.0,Medium,"Sentiment: Calm | Transcript: We got some shootings over here in Silbeach. Okay, where? The salon in the Maritala."
+AUD-082,Audio,C082,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I just killed someone, a hundred, about 40."
+AUD-083,Audio,C083,Emergency Report,La Clacetta,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Okay, yes, Emily, Katie, and the traffic search. She's in the city of La Clacetta and her accelerators suspect she can't stop the vehicle."
+AUD-084,Audio,C084,Emergency Report,Minette,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I got a report of shooting. Okay, where? Lehigh Hansen for Minette."
+AUD-085,Audio,C085,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: We need the police here. Okay, what's the address of the emergency? The other."
+AUD-086,Audio,C086,Fire/Structure Incident,Route 7,N/A,8.5,High,"Sentiment: Distressed | Transcript: Okay, we've got a fire down here at the Route 7 right here at Abington."
+AUD-087,Audio,C087,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I want to tell you what's happening first. I just killed my wife. There's no where you're at. What? Where you need to pull.
+AUD-088,Audio,C088,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: What do we say? What happened? I'm sorry, I'm sorry. I'm sorry."
+AUD-089,Audio,C089,Emergency Report,South Mim2,N/A,4.0,Medium,Sentiment: Calm | Transcript: We have been shot at a house in South Mim2. We have three children and we leave somebody here now.
+AUD-090,Audio,C090,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: You said, I instead come to concert say"
+AUD-091,Audio,C091,Emergency Report,The Noseville For Vata,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I'm behind the Noseville for Vata, license plate, CEG 8148, and we've been all over the road."
+AUD-092,Audio,C092,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: 4202 Mallor circle. Two men have just crossed my fence to try.
+AUD-093,Audio,C093,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: What city are you in?
+AUD-094,Audio,C094,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I am going eastbound on I-10 between LA-30 and LA-44.
+AUD-095,Audio,C095,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, we need officer right now. There's a man shooting at the lady. We need a cop. We're at. We're on it."
+AUD-096,Audio,C096,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, ma'am. This is the old and the great the the the the the the the the the the the the the the the the the"
+AUD-097,Audio,C097,Crime/Assault,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: your meditation. I am a little boy having a new name. Let me get a gun nest. Don't hang up sir.
+AUD-098,Audio,C098,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Okay, I call before and I already pay in back. All right, so aren't we going to..."
+AUD-099,Audio,C099,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yeah, I'm putting myself in for my husband, the number."
+AUD-100,Audio,C100,Emergency Report,Sophie,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I'm someone's breaking into my house. Wish I'd grab. Sophie, six, seven, eight, four, five, what?"
+AUD-101,Audio,C101,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I know. I'm sorry, Gordon. I know when she shot me with... I can go."
+AUD-102,Audio,C102,Emergency Report,B.I.C.,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, sir. I've got this middle school. We have a student with a dunking up help us out. Please call B.I.C. police also"
+AUD-103,Audio,C103,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm not sure if I'm going to get by train. Why was you hit by a train? My friend. Where are you?
+AUD-104,Audio,C104,Emergency Report,Walmart,N/A,4.0,Medium,Sentiment: Calm | Transcript: an ambulance to the south side Walmart immediately. What's going on? I have a man shot.
+AUD-105,Audio,C105,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: You said it doesn't matter to anyone. You pressed Or novice and you turned a river, you turned a river in me again. You shot him. You shot him."
+AUD-106,Audio,C106,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I'm hoping. I'll leave in the lab, I think someone is trying to come in."
+AUD-107,Audio,C107,Traffic Accident,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I need a nice grey billed place, I don't care who's 15612."
+AUD-108,Audio,C108,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I don't know but you have 4,000"
+AUD-109,Audio,C109,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: We have a I think we have a dead person in here. Okay. I don't know what happened.
+AUD-110,Audio,C110,Crime/Assault,Wonder Rock,N/A,8.5,High,"Sentiment: Distressed | Transcript: I'm almost in Wonder Rock, the US bank, and I just need to be sure to tell myself then."
+AUD-111,Audio,C111,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: What are you? The emergency hotline. Who are you?
+AUD-112,Audio,C112,Crime/Assault,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: It's a business. I believe it's been robbed. What's the name of the business? Flying biscuit.
+AUD-113,Audio,C113,Emergency Report,Mcdonald,N/A,4.0,Medium,"Sentiment: Calm | Transcript: and what is your emergency? Hi, my name is Mickey. I'm the manager at the McDonald's. I'm very intrigued. Yeah. There's a woman who is so cute."
+AUD-114,Audio,C114,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I think we're on 75. I 75? Yes. Okay.
+AUD-115,Audio,C115,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Something is going on. Do you know the south number?
+AUD-116,Audio,C116,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I keep blow-drow. We have blitz. Okay, I'm sorry you have blitz."
+AUD-117,Audio,C117,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Are you out of the house yet? No. Or I get out of the house. We can't.
+AUD-118,Audio,C118,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: emergency. My focus is on that please come. We're going to say the address is not here for me. What city are you in?
+AUD-119,Audio,C119,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Oh, darling, he's ill. Who is this? I told my father right to help."
+AUD-120,Audio,C120,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Include? Just because he's someone to you?
+AUD-121,Audio,C121,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Um, we have somebody. Sorry."
+AUD-122,Audio,C122,Traffic Accident,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I think somebody is breaking in the house. We just came from school and put our pajamas on. We really scared.
+AUD-123,Audio,C123,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Um, I always offers, kind of, my mom's on a floor."
+AUD-124,Audio,C124,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: emergency. I just shot my wife. Can you tell me the address that you're off?
+AUD-125,Audio,C125,Emergency Report,The Walmart Super Center,N/A,4.0,Medium,Sentiment: Calm | Transcript: I think we need a place at the Walmart Super Center in Miss Kogi. That's what we got.
+AUD-126,Audio,C126,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yeah, I need the Polo here. 963, he's 363. There's somebody in the house with a grimole."
+AUD-127,Audio,C127,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: corner of 119 and counting road 1 we just saw plane go down to the
+AUD-128,Audio,C128,Traffic Accident,Union,N/A,4.0,Medium,"Sentiment: Calm | Transcript: A plane just crashed. Okay, you said three miles south of Union reservoir."
+AUD-129,Audio,C129,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, it is a police station. Yes, it is. May I help you? Yes, okay. I put this as ridiculous."
+AUD-130,Audio,C130,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I know there's an ambulance on the TV for this little boy. Okay. And there's a young man.
+AUD-131,Audio,C131,Traffic Accident,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Hi, we just witnessed the vehicle accident on the train ja"
+AUD-132,Audio,C132,Traffic Accident,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: There's a horrible accident on 7 mile fare in highway 94.
+AUD-133,Audio,C133,Traffic Accident,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Hi, there was a accident. We just witnessed three cars just been full motion."
+AUD-134,Audio,C134,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I was told to call my dad to tell whatever I had.
+AUD-135,Audio,C135,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: He only found his dad's old proofs best, but I don't know."
+AUD-136,Audio,C136,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Hello. Just for Blast. Hello.
+AUD-137,Audio,C137,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: There has been a murder suicide. There is no survivors. Please send help. Okay, what's going on? Who? What's going on?"
+AUD-138,Audio,C138,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: यह पलीज वारा हैं वार वार वार वार वार वार वार
+AUD-139,Audio,C139,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yeah, I'd like to report it to you, please. Okay. Be the thrills."
+AUD-140,Audio,C140,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I just shot my wife. Okay, and what's your address?"
+AUD-141,Audio,C141,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yo! Cole Kunner! Uh oh, stop So... I'm dead! It's okay man!"
+AUD-142,Audio,C142,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: A woman came under her house screaming that her son had shot for her husband.
+AUD-143,Audio,C143,Crime/Assault,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: Hi, I hear a girlfriend just pulled up and there's a guy pull up and truck behind him and we think he has a gun."
+AUD-144,Audio,C144,Emergency Report,Unshots,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Hi, Edons, Unshots. We're all on the floor. You're doing what? They think Unshots."
+AUD-145,Audio,C145,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm not talking about this. I'm talking about this. I'm talking about this.
+AUD-146,Audio,C146,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Someone with murder, I think. Where are you? No, please, you're gonna let me... I need you."
+AUD-147,Audio,C147,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: It was guys just in my mom and my niece and my sister all the while they've been treated.
+AUD-148,Audio,C148,Crime/Assault,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: I have a gun shop victim here. Okay, I'm going to hurry."
+AUD-149,Audio,C149,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I just come in to pick it up my trash and my major is in the house. I've got no...
+AUD-150,Audio,C150,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: в<|es|> pesar務
+AUD-151,Audio,C151,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: You need to see this ran over and they said that the boy just shot his mom. We've had to pull.
+AUD-152,Audio,C152,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I requested a state police to come out. I would like state police to...
+AUD-153,Audio,C153,Crime/Assault,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: I had a guy kicking in my door or trying to kick in my front door. I don't know what his problem was.
+AUD-154,Audio,C154,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: in 59 to capture races. There's been a shooting. Somebody came in and shot a bunch of people. I'm hiding in the bed after a mall.
+AUD-155,Audio,C155,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: exit of this game coming from the beach. There's a guy that's completely naked who has closed all of the...
+AUD-156,Audio,C156,Traffic Accident,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: There's a naked man or the men's cars way at the end of the car way coming towards this
+AUD-157,Audio,C157,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: So hi I'm Erie C. I'm Erie C. I'm my great-for-delie.
+AUD-158,Audio,C158,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I have a boy that was underwater and he's not breathing. How old is the boy? Four.
+AUD-159,Audio,C159,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Are you inside the house? Yes. Are you alone inside the house? Yes.
+AUD-160,Audio,C160,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: someone on the back porch of black man. And what is your address? 3613 lady woodland.
+AUD-161,Audio,C161,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I'm gonna take a look at how I put it. How the power of this kit. Well, we'll put it up over there now."
+AUD-162,Audio,C162,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm going to come and stop. Where are you at? I'm at the end.
+AUD-163,Audio,C163,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: What kind of appearance is that? Your wet? What kind of appearance is that? Your panty is a shot.
+AUD-164,Audio,C164,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: We had several police tire earlier and did a report.
+AUD-165,Audio,C165,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Oh, right, brother. It's having a great time in the hotel. Okay."
+AUD-166,Audio,C166,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I just strangled my girlfriend. You just strangled your girlfriend? Yep. What's your name?
+AUD-167,Audio,C167,Traffic Accident,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Okay, we've had an airboat accident. I'm not sure if they're all injuries. I don't know to what extent."
+AUD-168,Audio,C168,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Hey, I see a mead down"
+AUD-169,Audio,C169,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: A fan of that support Oh Drink
+AUD-170,Audio,C170,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm going to go now. I'll be right there. Do you have a hand for them? Yes. Do you have a hand for them?
+AUD-171,Audio,C171,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Habt Ihr Lävauge da something ?
+AUD-172,Audio,C172,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I was just going to six temple and there was a I was in the parking lot and there was a bunch of
+AUD-173,Audio,C173,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, somebody just send my baby please get here. They just did what?"
+AUD-174,Audio,C174,Traffic Accident,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Oh, there's a fucking dead man in the car. Roger for me, young."
+AUD-175,Audio,C175,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Can I help you? Somebody who's broken our daughter's trying to break into my bedroom. What's your address?
+AUD-176,Audio,C176,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Please, before I get through, I have my shirt in here. The shirt is where, where on issue the cat, where at?"
+AUD-177,Audio,C177,Fire/Structure Incident,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: Please fire. 9-1-1. My hands will be having a harder time. Brooke, we're going to start CPR on the hem. Okay?"
+AUD-178,Audio,C178,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: you. I'll do you off with the shots. With what agency sir?
+AUD-179,Audio,C179,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I just killed my mom and my sister. What? I just killed my mom and my sister.
+AUD-180,Audio,C180,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: How come because I'm at a port in my side and this is it? What park are you in?
+AUD-181,Audio,C181,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: We have two boards, two boards. Do you have lights to service? We have lights to service. Are you in the water now?"
+AUD-182,Audio,C182,Crime/Assault,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: It's been with gardens and sin as possible to the ladies. It was like, I've never had a hard problem. What is a dad's life?"
+AUD-183,Audio,C183,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I just committed a father's worst sin. Okay. I just shot my daughter and...
+AUD-184,Audio,C184,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, I have a three year old who's not breathing. To address men. 1 6 0 9 7 Northwater."
+AUD-185,Audio,C185,Emergency Report,Hanley,N/A,4.0,Medium,Sentiment: Calm | Transcript: I have an emergency. I have three dead people up on top. It's called Hanley flat up Wolfhand. My name is
+AUD-186,Audio,C186,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Who's finished shooting? Okay, who was shot?"
+AUD-187,Audio,C187,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: N5631, Sahel Road."
+AUD-188,Audio,C188,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Um, I don't know a guy stopped me. I think his wife is strong with his wife. He's"
+AUD-189,Audio,C189,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: We need help my husband to shop my son
+AUD-190,Audio,C190,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Place, this is Dale Ford, Passdresser, 217th. I'm called a bugger or in my shop. 217 North 7."
+AUD-191,Audio,C191,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Come on in your side, busing up vehicle man. I don't know where you're at, where are you?"
+AUD-192,Audio,C192,Emergency Report,North La,N/A,4.0,Medium,"Sentiment: Calm | Transcript: have you got any reports of a building exposure? Yes we have, it's going to be Jerry Maschick in North La..."
+AUD-193,Audio,C193,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I love this in the middle of the night. Get the hell out of my life, baby! There's a lot of good bad kids, baby!"
+AUD-194,Audio,C194,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: We just have the explosion at the front of our door. Yes sir. The chemical delivery is coming.
+AUD-195,Audio,C195,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Gary Masek-Grab, all the house blew up. Now's the windshield out of my pick-up."
+AUD-196,Audio,C196,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Thank you very much.
+AUD-197,Audio,C197,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, the 1000 exploded. Okay, what's the end like? 1879."
+AUD-198,Audio,C198,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Oh, dude, the guy with the Josh suit is a new world ball right now. He's a sucker with the ball right now. Okay, can I have a..."
+AUD-199,Audio,C199,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I'm a name of Hans Walters. I work for a lot of Vegas, much upon a police department."
+AUD-200,Audio,C200,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Can you please send rescue to I think I'm having
+AUD-201,Audio,C201,Crime/Assault,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: I'm out of saw high school, there's a guy with a gun. Let's go to the chase, go. Last one's saw."
+AUD-202,Audio,C202,Fire/Structure Incident,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: You need police fire ambulance.
+AUD-203,Audio,C203,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: We have a shooter in the store. Okay, do you know if anybody's injured?"
+AUD-204,Audio,C204,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Okay. Okay. I need to get your stuff to a safe location.
+AUD-205,Audio,C205,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: emergency. We're out of the town center.
+AUD-206,Audio,C206,Fire/Structure Incident,Clackerman,N/A,8.5,High,"Sentiment: Distressed | Transcript: 911. Clackerman's town center, Frederick's of Hollywood, fired in the mouth. Okay, there will be other words."
+AUD-207,Audio,C207,Emergency Report,House 503 Nighthawk Drive,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Hi, I'm a suicidal teenager at House 503 Nighthawk Drive. I need an ambulance immediately."
+AUD-208,Audio,C208,Fire/Structure Incident,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: 500 feet, roll the cop, roll an ambulance, shots fired, a baby's been hit in the head."
+AUD-209,Audio,C209,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Can you get an ambulance in a cop? Get the over to 59 Alderwood drives. 59 what? Alderwood.
+AUD-210,Audio,C210,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Hi, the gentleman was just talking to me about someone who's broken."
+AUD-211,Audio,C211,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: But, hurry up, this is the bivy. It happened. This is the bivy. He can't snuck it on my door earlier."
+AUD-212,Audio,C212,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: But we went to the quails unlimited dinner last night and the cylinder might hear it looks like you hit it head in the...
+AUD-213,Audio,C213,Emergency Report,The Grab Avenue,N/A,4.0,Medium,Sentiment: Calm | Transcript: Get empty over here. Come under in shot 1220. Call the grab avenue 1220
+AUD-214,Audio,C214,Emergency Report,N/A,N/A,2.0,Low,Sentiment: Calm | Transcript: [Background noise / Dispatched tone / No clear speech]
+AUD-215,Audio,C215,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I'm at 69, 69 East Main. My son just shot his wife."
+AUD-216,Audio,C216,Traffic Accident,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I don't know. Yes sir, I do push car right now. 504J3. 5041."
+AUD-217,Audio,C217,Fire/Structure Incident,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: Yes, ma'am. Yeah, this is your last seat. Shot fired, same thing."
+AUD-218,Audio,C218,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yeah, I just attend to kill my mother if I step out there. Okay, where are you at sir?"
+AUD-219,Audio,C219,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, we're at a pool and I have a little girl that keeps down and she's not breathing. Trying to see if you are like..."
+AUD-220,Audio,C220,Fire/Structure Incident,Washington Avenue,N/A,8.5,High,"Sentiment: Distressed | Transcript: My neighbor's house is burning down at 312 Washington Avenue. We're on our ways, anybody inside?"
+AUD-221,Audio,C221,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Great job Looking so long Did we both need to go from here?
+AUD-222,Audio,C222,Traffic Accident,Sso,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm reporting an airplane crash at a SSO. An airplane crash at SSO?
+AUD-223,Audio,C223,Traffic Accident,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: high, we just, where's the emphasis to airport in our airplane just crashed upon landing."
+AUD-224,Audio,C224,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I'm in the hammer now, I'm going to wait. To wait a little bit. Wait a little bit."
+AUD-225,Audio,C225,Fire/Structure Incident,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: Why did I move the fire alarm office? Okay, this is county. It's a matter of..."
+AUD-226,Audio,C226,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yeah, this is emergency. I'm a cab driver this guy. He say..."
+AUD-227,Audio,C227,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm going to see. Dance away! What happened to me? I don't know. I'm in the way. It's please.
+AUD-228,Audio,C228,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Help me help me quick. I'm the only one who can be on the court. I know.
+AUD-229,Audio,C229,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: When emergency
+AUD-230,Audio,C230,Fire/Structure Incident,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: And there's a fire on the cemetery, a bridge into one of the gates. And on the cemetery."
+AUD-231,Audio,C231,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes ma'am, I'm on second avenue in the school and the gentleman said tell them to hold down the police office are coming to here"
+AUD-232,Audio,C232,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: He's in the house.
+AUD-233,Audio,C233,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, our ammunition is help. I'm trapped in the back side of this force bar."
+AUD-234,Audio,C234,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm watching Mike Donnell's up here. And I order like seven birds.
+AUD-235,Audio,C235,Emergency Report,The Sheriff Department,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Oh my God, so many students at the Sheriff Department. At the Sheriff Department? Yes, so building place."
+AUD-236,Audio,C236,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, I didn't tacked by a man in the woods while I was hunting. Please send the police to my location."
+AUD-237,Audio,C237,Emergency Report,Radio,N/A,4.0,Medium,"Sentiment: Calm | Transcript: On the boat, it ends up Radio lighting and electric supply building Radio lighting and the"
+AUD-238,Audio,C238,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, this is Shにゃすぎ! Shにゃすぎ! How about all these?"
+AUD-239,Audio,C239,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Now, here seems to be a bad fight next story."
+AUD-240,Audio,C240,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I don't think so now and we all been followed. You need to hurry, we can only..."
+AUD-241,Audio,C241,Emergency Report,Ssf,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I think some people are shooting. Okay, and SSF. Okay."
+AUD-242,Audio,C242,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm about to kill people. You're about to kill people? Yes. I had a deadly weapon in my...
+AUD-243,Audio,C243,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Hello. Hello? Hello.
+AUD-244,Audio,C244,Emergency Report,Larby,N/A,4.0,Medium,"Sentiment: Calm | Transcript: The station is on sunset, Larby, please come here. Okay, calm down a little bit, okay, what's he at?"
+AUD-245,Audio,C245,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Um, my friend, who's my birthday gift, who I got to know."
+AUD-246,Audio,C246,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I'm working for the head. I'm calling my son. I'm just getting asked. What's your address, ma'am? What's your address? What's your address?"
+AUD-247,Audio,C247,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Oh, I'm just very upset. And I'm..."
+AUD-248,Audio,C248,Emergency Report,Fox,N/A,4.0,Medium,Sentiment: Calm | Transcript: But guess what the fox has broke out and the lady come running out of the man from man is in there Tuding everyone
+AUD-249,Audio,C249,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Okay, I'm at Wild Cash even. We've had a lot of our keepers."
+AUD-250,Audio,C250,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: This is my goodest five or five each financial. I got the people in my yard and their dogs are my...
+AUD-251,Audio,C251,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I've been called over to my father in law to have, because he got off the phone with my mother in law and he's been flexing up and stuff."
+AUD-252,Audio,C252,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: There was this time I go and what a road is this? Red arrow going down.
+AUD-253,Audio,C253,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: My girlfriend is right and I think she's dead. I need someone here now. Okay, she breathing."
+AUD-254,Audio,C254,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm sorry. Any hoax school. I think there's somebody shooting in here. Sandy hoax school. Okay. What makes you a
+AUD-255,Audio,C255,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: emergency. Say you look at elementary school, 12 dickies and drugs. Okay, I've got that. What's going on down there?"
+AUD-256,Audio,C256,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I can still draw. It sounds like they're contacting the hallway. I'm a teacher in the school. Okay. Where are you in the school?
+AUD-257,Audio,C257,Traffic Accident,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, my husband's on the front there's a car here within a soul rifle shooting it's police and aiming at our house"
+AUD-258,Audio,C258,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: emergency. Oh, please hurry. This is one nine. Wind him court. We"
+AUD-259,Audio,C259,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: by the door. If anybody comes down here I'm shooting. Okay, don't, we don't want to shoot anyone else, okay? So, what's all this?"
+AUD-260,Audio,C260,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: there. We got a we got a student athlete who was on the court moaning.
+AUD-261,Audio,C261,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I have a nine week old infant and he just stopped breathing. Damn, I'm a white-up man. Okay."
+AUD-262,Audio,C262,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: We believe that there is a schooner. We have heard at least two shots. Okay, what is the next?"
+AUD-263,Audio,C263,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I went to the shoes of the old path and I went there I didn't know until the weather got sour amendment. This letter was fine. I was born in 2012. It was ...
+AUD-264,Audio,C264,Crime/Assault,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: gunshot went to the chest. Number B.
+AUD-265,Audio,C265,Crime/Assault,The Comfort Bank On Thomas,N/A,8.5,High,Sentiment: Distressed | Transcript: Can you hold for just a second? I just saw somebody running to the Comfort Bank on Thomas in 2020.
+AUD-266,Audio,C266,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Cities
+AUD-267,Audio,C267,Fire/Structure Incident,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: the railroad tracks, we've got to train that to D rail the National Fire."
+AUD-268,Audio,C268,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: He got sand. He goes through the pit dug. More of thesurprise.
+AUD-269,Audio,C269,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: emergency.
+AUD-270,Audio,C270,Crime/Assault,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: I just had a lottery to steal a beer at all. All right, hold on, first share our stuff. Let's go. All right, hold on."
+AUD-271,Audio,C271,Crime/Assault,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: So there's been a gunshot at the cop theater, movie theater, cop, and what's the chapel gunshot, to the chat."
+AUD-272,Audio,C272,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm gonna come in with your name. What is your name?
+AUD-273,Audio,C273,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: the crazy. He's been stabbed really bad. Okay, let's be breathing ma'am."
+AUD-274,Audio,C274,Emergency Report,Israel.Die,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Watch out and upload. You're lame, don't believe that. My god poetic face looks nothing. My household head! Don't lie to me. Don't lie to me. Don't lie to me ..."
+AUD-275,Audio,C275,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: My daughter is choking on a bouncy ball. Okay, and you're at 25, 25 North 10th Street? Yes, is she?"
+AUD-276,Audio,C276,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Well, am I 41 going south and I'm going to do a cross street right now?"
+AUD-277,Audio,C277,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: emergency i'll have insert
+AUD-278,Audio,C278,Fire/Structure Incident,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: Pardon me NY cognition Where's the fire at ?연 MY pistula
+AUD-279,Audio,C279,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: payback police chief uh... with having a vehicle pulled across the street in the residence come on jottis
+AUD-280,Audio,C280,Crime/Assault,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: I've been taken out of my house at gunpoint. I'm going to head to the police station.
+AUD-281,Audio,C281,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: And my neighbor just knocked on my door. And I heard this mission. We went down to where the mail box is.
+AUD-282,Audio,C282,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: المكان لك لنا ذهب في الطمان المفياهو toman هذا pink
+AUD-283,Audio,C283,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: on. Land is on the ground. I didn't go and check you. A male is on the ground? Yes.
+AUD-284,Audio,C284,Emergency Report,State,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, I live at the 9301 South Secretary of State, Harvard A. I got a gentle"
+AUD-285,Audio,C285,Emergency Report,Caliola,N/A,4.0,Medium,"Sentiment: Calm | Transcript: This is Caliola, the transfer at your Beth Western. I'm a 1-14, someone has been shot in the neck. They're going to need medical assistance."
+AUD-286,Audio,C286,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: We're missing a child. Three years old. You're missing a three year old.
+AUD-287,Audio,C287,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: What exactly what happened? My wife's pregnant and she says she made the hospital, she says she can't read them."
+AUD-288,Audio,C288,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I am on half road, I am in water, and it's taken me away. Hey man, we're on the..."
+AUD-289,Audio,C289,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: OK, 134 right."
+AUD-290,Audio,C290,Traffic Accident,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: My walk up up up a little. Okay, let's go up the bottle with a carrot there. You've got movie. There."
+AUD-291,Audio,C291,Emergency Report,Lowell Street,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I got a collar on the line, she's got to be quiet, somebody just broken door house, 436, Lowell Street."
+AUD-292,Audio,C292,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I'm having one of my moments in shot. Okay, so it's medical. Is it medical, son?"
+AUD-293,Audio,C293,Crime/Assault,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: I've got a woman in my bank pointing a rifle at all of us and all of our customers. I need police now.
+AUD-294,Audio,C294,Traffic Accident,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: We walked contact with two carriers, with the carrier and somebody else."
+AUD-295,Audio,C295,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Where's your emergency? I need an ambulance to let on one colony. Okay, what's going on? What's going on? Okay."
+AUD-296,Audio,C296,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: We need an ambulance. We're going on. My mom keeps...
+AUD-297,Audio,C297,Crime/Assault,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: Okay, what the problem on wrong and office? Something's what? You know, something wrong and office, I believe. What do you mean something?"
+AUD-298,Audio,C298,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Are little boys not breathing? Is he breathing now? No he's not.
+AUD-299,Audio,C299,Emergency Report,10Th Street,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yeah, I saw somebody up on 10th Street on the airport. Okay, you did."
+AUD-300,Audio,C300,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Um, my mother fed down. Okay, your mama fell down? Yeah. Okay, where are you at?"
+AUD-301,Audio,C301,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: My kids have been in this for three o'clock today, my seven-year-old and my three-year-old."
+AUD-302,Audio,C302,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I have been missing since 7 o'clock this morning and
+AUD-303,Audio,C303,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I have someone here that I need to be arrested in my home.
+AUD-304,Audio,C304,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Hello. Hello. Hello. Hello. Hello. Hello.
+AUD-305,Audio,C305,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Hi, I'm speaking to my boyfriend and he was entering his home and I heard loud screaming and now this dead"
+AUD-306,Audio,C306,Fire/Structure Incident,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: fires guicon electrical
+AUD-307,Audio,C307,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I can't bite my wife, so I'll feed her the bathtub and I think she gets. I'll let you, I'll see how it goes."
+AUD-308,Audio,C308,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: We have a bare molley. I am out on the trail. I just wanted to take this time.
+AUD-309,Audio,C309,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: No, I should go to my room. I need a policeman. And ambulance in my house. Make my way out. Man. Yo, listen."
+AUD-310,Audio,C310,Fire/Structure Incident,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: This is an emergency run hike. I'm going to make my walk or hike in my kitchen in the smokey.
+AUD-311,Audio,C311,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: North Austin, the ? look like we Jisk Herよう"
+AUD-312,Audio,C312,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: 2313 what? 2313 cabrits. 2313 cabrits. Yes.
+AUD-313,Audio,C313,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm sorry I've got to admit.
+AUD-314,Audio,C314,Traffic Accident,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, well I walked in my car and you're like in your car out of your car. Yes, in my car."
+AUD-315,Audio,C315,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: You look like you need it, come slow. You just need a towel to come over here."
+AUD-316,Audio,C316,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: A child who has been left on my doorstep. Okay, what's your address?"
+AUD-317,Audio,C317,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: On jokes with my dog.
+AUD-318,Audio,C318,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Bangas tragedy is our thaq so it's Knoja boaoit foot
+AUD-319,Audio,C319,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Exactly what happened. There was two trains just collided outside of our metro link.
+AUD-320,Audio,C320,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, ma'am. My name is Special Agent Richard A Smith. That's number zero time."
+AUD-321,Audio,C321,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: We'll be in the office, I'll guide you by 9. Please try. We're all bleeding."
+AUD-322,Audio,C322,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Hello, it's the state police and the gentleman's girlfriend is having a baby right now. Okay, sir."
+AUD-323,Audio,C323,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I don't know if I'll make it. I'm trying to...
+AUD-324,Audio,C324,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: My boyfriend is outside, he has been stabbed. Okay. And he's..."
+AUD-325,Audio,C325,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm the guy that's in pretty big trouble right now. You're in pretty big trouble? What's your name?
+AUD-326,Audio,C326,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, I think everybody's clicking into my house. Please. Okay, stay on the phone. I mean, why did you think someone's trying to break a..."
+AUD-327,Audio,C327,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: The nightgum is a bad little bird. We can't walk further. We have streamlined... Drunnormy Drunnormy
+AUD-328,Audio,C328,Emergency Report,Evergreen,N/A,4.0,Medium,Sentiment: Calm | Transcript: I think my son's been killed. We're at. We're in the Evergreen...
+AUD-329,Audio,C329,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: The update has already been released. I think he's going to try to kill himself. I need an A.
+AUD-330,Audio,C330,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Well, as said, emergency, you know why on one lane, on one side at the damn drawbridge, on 95..."
+AUD-331,Audio,C331,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Come on. What? More now! There's nothing to talk about!
+AUD-332,Audio,C332,Emergency Report,Faa,N/A,4.0,Medium,"Sentiment: Calm | Transcript: What are you into doing? The FAA agents that look like you're giving a heart attack or stroke or something, just"
+AUD-333,Audio,C333,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Well, I just got a phone call saying that my friend, she was in the basement apartment of that house and apparently the"
+AUD-334,Audio,C334,Fire/Structure Incident,Broadway,N/A,8.5,High,Sentiment: Distressed | Transcript: There's a fire right here off the Broadway. Broadway and poetry.
+AUD-335,Audio,C335,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm here. We just came into my sister's house and she's on the floor. Try the girl to mesh.
+AUD-336,Audio,C336,Emergency Report,The Stevens-Ball,N/A,4.0,Medium,Sentiment: Calm | Transcript: My girlfriend left last night. We were at the Stevens-Ball and St. Nicholas.
+AUD-337,Audio,C337,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: My cat, a cat, is a seven-month-old child. And I..."
+AUD-338,Audio,C338,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: and my friend was drinking and she woke me up and she's sick and now she's not responding.
+AUD-339,Audio,C339,Fire/Structure Incident,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: and it's a fire at somebody else called the stadium. You're on the ground. The avenue is at their avenue.
+AUD-340,Audio,C340,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: We need format.
+AUD-341,Audio,C341,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: And you said somebody just left. Someone had finally heard the little voice like of the
+AUD-342,Audio,C342,Emergency Report,بھائی,N/A,4.0,Medium,Sentiment: Calm | Transcript: میری دریاد کارتے ہو دریہ میری ریور کی کار کار میری ریورتے ہو دریگا بھائی آجا
+AUD-343,Audio,C343,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Somebody got shot at? Somebody got shot at? Yeah.
+AUD-344,Audio,C344,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Okay, what's the address?"
+AUD-345,Audio,C345,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: emergency. Yeah, this is it from I had a little girl that fell on the ball and"
+AUD-346,Audio,C346,Fire/Structure Incident,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: The bedroom is on fire. I have to go fast. Okay, we're on the way."
+AUD-347,Audio,C347,Emergency Report,Cambridge,N/A,4.0,Medium,"Sentiment: Calm | Transcript: How you doing? I'd like to report like to a double murder in Cambridge, on it. Okay, do you know the answer? I know. You are."
+AUD-348,Audio,C348,Emergency Report,Airborne Road,N/A,4.0,Medium,"Sentiment: Calm | Transcript: 165 Airborne Road, I've been shot on 1675 Airport Road."
+AUD-349,Audio,C349,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Отвар cubed, weeks integrateeras."
+AUD-350,Audio,C350,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I need some help. What's going on?
+AUD-351,Audio,C351,Fire/Structure Incident,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: Conjects if there's a fire. Give the fire at what address man?
+AUD-352,Audio,C352,Emergency Report,Sayat,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Hi, something just exploded at the end of Sayat. Okay, is there any..."
+AUD-353,Audio,C353,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I think someone is trying to break into my home. Just stop at 56.
+AUD-354,Audio,C354,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: on a date to meet my help
+AUD-355,Audio,C355,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I'll say what's going on, he said I want to help Brown. He's on Brown, she's in the floor now. Okay, may I..."
+AUD-356,Audio,C356,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I just shot my mother in my... You shot your mother?
+AUD-357,Audio,C357,Emergency Report,Third Avenue,N/A,4.0,Medium,Sentiment: Calm | Transcript: I just witnessed a shooting on third Avenue in Nickers. Third in Nickers and how many minutes.
+AUD-358,Audio,C358,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm not so lucky to hear it now. We just got stuck by lightning. And my boyfriend is gonna do it.
+AUD-359,Audio,C359,Emergency Report,Venice,N/A,4.0,Medium,Sentiment: Calm | Transcript: We have an aircraft declaring an emergency is going to land on the beach at Venice. Close to the airport. I'm not sure it got...
+AUD-360,Audio,C360,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: No, I think someone's in. David, you hear the front door? I'm hearing no lights, the door's."
+AUD-361,Audio,C361,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: we heard looked in the garage door was up and i thought the gentleman was backing up and went back
+AUD-362,Audio,C362,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: We've been beating. It's the family daughter. I'm bleeding.
+AUD-363,Audio,C363,Crime/Assault,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: I have a gun range officer that got shot in the head. We're at a... Samture's point.
+AUD-364,Audio,C364,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I need 10 minutes right now for you. Okay, let's be a drag."
+AUD-365,Audio,C365,Traffic Accident,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: We go up to this lady she laying in the road. I think she would get by a car. Okay. I got ahead injury. Oh
+AUD-366,Audio,C366,Crime/Assault,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: I'm going to ruin the way I'm at. But my line looks like this guy robbed and he got shot. Okay, fun."
+AUD-367,Audio,C367,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: She cut me who cut you there's no no hold on
+AUD-368,Audio,C368,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Please have me try to get my house. What are they doing? They tied my fund door and my schedule are now.
+AUD-369,Audio,C369,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: There's been a shooting, I just shot a man attack. We'll make a stop. OK, sir. If he enters."
+AUD-370,Audio,C370,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I love me, I just love you more. Are you at a house? For a house?"
+AUD-371,Audio,C371,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, man, I just shot my doider and shot all my grandkids."
+AUD-372,Audio,C372,Emergency Report,North Sound,N/A,4.0,Medium,Sentiment: Calm | Transcript: Because I'm not my way to work on North Sound on Redwood Road.
+AUD-373,Audio,C373,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: ¡Ahhh! ¡Esto es eso! ¡Ay, un buen! ¡Cuál es la emergencia!"
+AUD-374,Audio,C374,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I got arrived from 21 to what's he's so cold? My 35 travels.
+AUD-375,Audio,C375,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: And there was a guy and there was a pistol and I was falling fake, but he's like pointed at everybody."
+AUD-376,Audio,C376,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I'll shut my husband and shut me, so we'll shut to me. Okay, hold on for me. Okay."
+AUD-377,Audio,C377,Traffic Accident,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I'm sorry, there's a situation here. We have residents that I think they stole a car."
+AUD-378,Audio,C378,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm in a glory in a race where it's where I go away.
+AUD-379,Audio,C379,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I think it's murder. What makes you think that? Because...
+AUD-380,Audio,C380,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Um, I don't know if my husband had eyes rolling back. He's just not breathing."
+AUD-381,Audio,C381,Traffic Accident,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm out here right now and I lost my keys in my car. Is there any way that someone can come out here?
+AUD-382,Audio,C382,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: It's not an emergency. The only way I know how to get in touch with this woman is
+AUD-383,Audio,C383,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: What's going on there? Let's see what's going on there.
+AUD-384,Audio,C384,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Now, one, one, where's your emergency?"
+AUD-385,Audio,C385,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Same. I hear you, br-"
+AUD-386,Audio,C386,Fire/Structure Incident,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: I'm sorry, but the fireworks bill on. I'm sorry, you cannot call 911 for that."
+AUD-387,Audio,C387,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I just received a call a few minutes ago from one of our VPs who states that he's up.
+AUD-388,Audio,C388,Emergency Report,31St Avenue,N/A,4.0,Medium,Sentiment: Calm | Transcript: If the Digman hit the park at 31st Avenue in Valmont.
+AUD-389,Audio,C389,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Yes! No! No. Damn! Damn!
+AUD-390,Audio,C390,Crime/Assault,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: There has been four gunshots. Close to the second. And it is in the middle.
+AUD-391,Audio,C391,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I cut my wife so sweet in the bathtub and I think she's dead. I want you with the anger.
+AUD-392,Audio,C392,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: We just found the body of a baby, my grandson."
+AUD-393,Audio,C393,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I would have brought behind him and his brother along with me and I called down there because I was feeling this.
+AUD-394,Audio,C394,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: This is our scouting utility emergency dispatch. We found a human skull. Oh my gosh.
+AUD-395,Audio,C395,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I need a police to come to my
+AUD-396,Audio,C396,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, no, I want to report a drug overdose."
+AUD-397,Audio,C397,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Hello? Hello, my dad and my uncle just got shot. Okay. Oh my god, I don't like that. Two people shot at this time."
+AUD-398,Audio,C398,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: on the side of the guide. And you can tell my little foot in there now. OK. Can you tell us?
+AUD-399,Audio,C399,Crime/Assault,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: My brother, he was playing like with his gun."
+AUD-400,Audio,C400,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: My brother is counting. Where are you at? I'm at the...
+AUD-401,Audio,C401,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: My guy, my girlfriend is yesterday. Calm down, sir. Is she still breathing?"
+AUD-402,Audio,C402,Crime/Assault,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: We have a gunshot wound accidental in the household. Okay, how old?"
+AUD-403,Audio,C403,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Somebody just, somebody just take him in my house. What did he hit her in the head with? I have not. I don't want-"
+AUD-404,Audio,C404,Emergency Report,Rockville Road,N/A,4.0,Medium,Sentiment: Calm | Transcript: There's a cleaning out of Rockville Road at 9.6.9.
+AUD-405,Audio,C405,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I don't know what this kid has done, and she's like going into a theater or something. And I don't know. Now just keep on..."
+AUD-406,Audio,C406,Crime/Assault,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: I got my gun out. There's somebody trying to get in my house. Okay, alright, let's go."
+AUD-407,Audio,C407,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: emergency. 5-001, there's man, we'll be done. 5-001."
+AUD-408,Audio,C408,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I can't hear you scream and I can't...
+AUD-409,Audio,C409,Crime/Assault,Boulder Creek,N/A,8.5,High,"Sentiment: Distressed | Transcript: We're having a baby or in Boulder Creek. We need to get the shutter. Okay, what's the problem? Some exact what happened."
+AUD-410,Audio,C410,Fire/Structure Incident,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: Where's your emergency? I'll get a fire. Super-agore is following twig. Hold on just a second. Slow down. What's the address?
+AUD-411,Audio,C411,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I just came home, the door was busted in and my girlfriend's been shot."
+AUD-412,Audio,C412,Traffic Accident,The Hudson River,N/A,4.0,Medium,"Sentiment: Calm | Transcript: It just crashed into the Hudson River, a US Air."
+AUD-413,Audio,C413,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: he just
+AUD-414,Audio,C414,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I've got a burglar. A burglar. Yes, ma'am. In the burglar."
+AUD-415,Audio,C415,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: The baby's not playing me on this. It's a damn baby highlands avenue. 12 baby highlands highlands.
+AUD-416,Audio,C416,Emergency Report,The Great Salt Lake,N/A,4.0,Medium,Sentiment: Calm | Transcript: Can I help you? Certainly. A couple of people who have picked over in the Great Salt Lake have got them on the line.
+AUD-417,Audio,C417,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: No, I'm lonely. I'm lonely. Just broken into a house where I'm lonely. Please help us. That's what my life is in half now."
+AUD-418,Audio,C418,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: My mouth is in the bathroom and in the tea cup.
+AUD-419,Audio,C419,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I'm coming here to buy something. I've listened to this. When I get there, I'm in the window."
+AUD-420,Audio,C420,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yeah, I was trying to find out if I knew to bring like any chick stoops or a"
+AUD-421,Audio,C421,Traffic Accident,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I see some activity going on in the car and I don't think it's proper. Okay, what kind of activity is it, sir? It looks like..."
+AUD-422,Audio,C422,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: This is emergency 911 emergency. 340 soil.
+AUD-423,Audio,C423,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: You said we dropped your store apart. Someone what? We just dropped your store apart.
+AUD-424,Audio,C424,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: floor. You'll be on the floor. She'll be on the floor. Okay. I'm going to tell you how to help deliver the baby. Okay.
+AUD-425,Audio,C425,Crime/Assault,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: What's the problem? What's the problem there?
+AUD-426,Audio,C426,Traffic Accident,Lincoln,N/A,4.0,Medium,Sentiment: Calm | Transcript: It does crash. What? A plane crashed on 17th and Lincoln in houses.
+AUD-427,Audio,C427,Fire/Structure Incident,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: like gunshots being fired. Okay. I don't know where they're coming from. It was two days.
+AUD-428,Audio,C428,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: My girlfriend, she has a sex boyfriend and she's been talking to hell out of her. Okay, just talking out there."
+AUD-429,Audio,C429,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: We just got a cry that somebody had shot somebody in a health diagnosis.
+AUD-430,Audio,C430,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: We've missed all the kidnaps in the night. Thank you, thank you. Who is kidnapped?"
+AUD-431,Audio,C431,Crime/Assault,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: of gentlemen in the center room, and the instrument, you change the room. A bank of pot fell out of this room."
+AUD-432,Audio,C432,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: If I have been to the same thing, I will be open to the 14th, 2000, definitely a gas at a time zero."
+AUD-433,Audio,C433,Traffic Accident,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: The man lying on the highway. He's lying down at the edge of the earth, but on his arm."
+AUD-434,Audio,C434,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I want to talk, I want to talk, into my mouth, into my heart, my heart, my heart."
+AUD-435,Audio,C435,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I am. My uncle's job is to put a knee snack in his girlfriend's back and I am picked here. What? I am picked.
+AUD-436,Audio,C436,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I ordered a Pinchy Chicken Leget with a small bite as...
+AUD-437,Audio,C437,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Somebody just, somebody just, and I'm gonna send a call to the police. I'm gonna be there's all on each day. Somebody just,"
+AUD-438,Audio,C438,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Help me. Okay, what's up, honey? My son isn't at least. I'm doing crazy."
+AUD-439,Audio,C439,Emergency Report,Dep Aer Спасибо Give,N/A,4.0,Medium,Sentiment: Calm | Transcript: but he- Dep aer Спасибо Give me some Well Good Good Neat Good Good
+AUD-440,Audio,C440,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Brian Chessens at 7-1-Bot-Glorm Circle and he is wrestling us to get in my house.
+AUD-441,Audio,C441,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yeah, I think it's least like that on my head. Yeah, man. We just got we just call it to boys breaking in our call"
+AUD-442,Audio,C442,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Somebody walk into our house last night. I don't know.
+AUD-443,Audio,C443,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: My ass bloopers is staring at the hell out of me It's stopping in my head and my neck and my...
+AUD-444,Audio,C444,Fire/Structure Incident,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: My partner's on fire, he can't. Err! Okay, stay on the line with me, don't hang out. No, please!"
+AUD-445,Audio,C445,Emergency Report,Martin,N/A,4.0,Medium,Sentiment: Calm | Transcript: I don't want Marge and Martin to stay. Help! It's a guy's coming! I can take him and go!
+AUD-446,Audio,C446,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I think he had a parachute on him, a guy parachute."
+AUD-447,Audio,C447,Fire/Structure Incident,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: What's the problem there? There's a fire on pregnant. There's a fire at home? Yes, please come. OK, get outside."
+AUD-448,Audio,C448,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Why would the pan cut me? I need assistance right away. What happened? My wife has now
+AUD-449,Audio,C449,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I have a concern for a co-worker. She just called me and sounded very...
+AUD-450,Audio,C450,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: A white female passenger pass out on one of our vehicles, which is 21-22."
+AUD-451,Audio,C451,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Hello, um, he's going down to the black way with my baby. Okay, where are you?"
+AUD-452,Audio,C452,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm going to turn this to the 258 from here. I'm going to turn the 258 from here.
+AUD-453,Audio,C453,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I don't know. There's a lady laying out here on the side wall. Okay, bleeding. Okay. Are you with the lady?"
+AUD-454,Audio,C454,Crime/Assault,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: Hi, my name is Jean Thomas. I'm watching my home on live monitor and there's a black man in my house and he's robbing it."
+AUD-455,Audio,C455,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I'm going to start giving him out the lobby for any black. Miss, yes, General, I know it's where you with him now."
+AUD-456,Audio,C456,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: There is a strange man outside our home and he hollered.
+AUD-457,Audio,C457,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm going to lose my side. I'm going to lose my side. I'm going to lose my side.
+AUD-458,Audio,C458,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: My wife says in the bathroom she is bleeding all over the place. She thinks she's having a...
+AUD-459,Audio,C459,Crime/Assault,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: and since May 8th, we've just got robbed. Okay, what they look like."
+AUD-460,Audio,C460,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: We've got a person here who is not fit to drive and needs to be taken to that system.
+AUD-461,Audio,C461,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: because I'm the lady, I'm my teenage lady, she was yelling for help, and they looked like she had a blood all over her."
+AUD-462,Audio,C462,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: There's somebody killed someone. Okay, ask for where the suspect is."
+AUD-463,Audio,C463,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: They're all minor one- who are asses! They're on his right where C-
+AUD-464,Audio,C464,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Get them out of here for mega attention.
+AUD-465,Audio,C465,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I need an ambulance for two hours. Somebody just come and collect you up. What a drug.
+AUD-466,Audio,C466,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: units know that it is confirmed rotation on the ground. Just want to roll our house off for five. Bring clean.
+AUD-467,Audio,C467,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: way into the north I've seen a funnel cloud just reporting my first driving
+AUD-468,Audio,C468,Traffic Accident,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: We just got in the tornado and the car slipped and the windows mercy and we're bleeding.
+AUD-469,Audio,C469,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I told you this came across there say 24 okay. Yeah
+AUD-470,Audio,C470,Emergency Report,Regis,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yeah, I have a rotating cloud coming in a southwest of Regis, hey far cut me."
+AUD-471,Audio,C471,Traffic Accident,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, it looks like we're gonna touch down on broad moral. Are you hard car? No, I'm looking at"
+AUD-472,Audio,C472,Emergency Report,Hillcrest,N/A,4.0,Medium,"Sentiment: Calm | Transcript: No, ma'am, we can see a tornado. We're at 914, Hillcrest. We have about five of us all."
+AUD-473,Audio,C473,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: My mom, she's sick and she can't wait to see you. She can't wait, God."
+AUD-474,Audio,C474,Traffic Accident,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm so glad we need the wheels to the car. She ran over three people in a row. Where? I'm so glad we're here again.
+AUD-475,Audio,C475,Crime/Assault,Lincoln,N/A,8.5,High,Sentiment: Distressed | Transcript: Where is the guy with the gun in the case he's with Ames? Which case is the Lincoln Y1?
+AUD-476,Audio,C476,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm just kidding the sounds of it. You can hear it in. Who is that? That's the course to be in that style.
+AUD-477,Audio,C477,Emergency Report,N/A,N/A,2.0,Low,Sentiment: Calm | Transcript: [Background noise / Dispatched tone / No clear speech]
+AUD-478,Audio,C478,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: My phone is on my phone. Okay, 615. It's okay."
+AUD-479,Audio,C479,Fire/Structure Incident,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: and then warrant. There's a fire back here at someone's front porch. Okay, where you need the fire department, ma'am?"
+AUD-480,Audio,C480,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: We just saw a big airliner just being coated by two five planes.
+AUD-481,Audio,C481,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes sir, where will a revich? Okay. Thank you."
+AUD-482,Audio,C482,Emergency Report,F18,N/A,4.0,Medium,Sentiment: Calm | Transcript: emergency. Oh that's the F18 chasing a big commercial plane around and around all those downtown
+AUD-483,Audio,C483,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yeah, I had two unusual aircraft fly really close."
+AUD-484,Audio,C484,Crime/Assault,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: I'm the designer of the house and I'm really just a robber. What are your address? My name is...
+AUD-485,Audio,C485,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: by the river the dog jumped in the water and we can't get out. Oh my god!
+AUD-486,Audio,C486,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Just let me just walk up and then we'll settle down and drop. Okay, sir, stay with me, okay?"
+AUD-487,Audio,C487,Emergency Report,The Sheraton Baltimore North,N/A,4.0,Medium,"Sentiment: Calm | Transcript: If not, I'm calling from the Sheraton Baltimore North. Yes sir. We have a dead body in one of our rooms."
+AUD-488,Audio,C488,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: because they just jumped my 13 year old daughter and it's about to be all hell for a glimmer on.
+AUD-489,Audio,C489,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: We got off for damn. What do you mean you have an off? We don't have a whole bunch of officers down.
+AUD-490,Audio,C490,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Пálки-关<|si|> иOP к
+AUD-491,Audio,C491,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: You know, Lyleview's shut down. You heard what? I seen a Lyleview's quiet down."
+AUD-492,Audio,C492,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: It's too late. And the high winds have the...
+AUD-493,Audio,C493,Emergency Report,The John Fee,N/A,4.0,Medium,"Sentiment: Calm | Transcript: We had a dead body right out in front of our school in the grass area, but we're at the John Fee door to be John's in location."
+AUD-494,Audio,C494,Emergency Report,N/A,N/A,2.0,Low,Sentiment: Calm | Transcript: [Background noise / Dispatched tone / No clear speech]
+AUD-495,Audio,C495,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: If the address is 1160 Ray Road, we have a baby missing out of a crib."
+AUD-496,Audio,C496,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I just called over to my sister's house and I have a phone.
+AUD-497,Audio,C497,Crime/Assault,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: The phone man following me from the application. Damn. Did he show the gun to you?
+AUD-498,Audio,C498,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Somebody just came in and shot my daughter and my husband. They shot them? They shot them? What's your act?
+AUD-499,Audio,C499,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm watching TV and I heard five shots and there's someone laying in my front yard. A woman's sitter.
+AUD-500,Audio,C500,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I just killed my family. What's the knife? All of them. All for real. What's your name? Michael Miller.
+AUD-501,Audio,C501,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: My mom, she's crying, let me go and you'll see. Where are you? Not in the father's den."
+AUD-502,Audio,C502,Fire/Structure Incident,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: I'm not going to be a police fire ambulance. I need to be a police comm. I'm a brother strong and he took out a knife. Police.
+AUD-503,Audio,C503,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm pulled over in the road. My husband's in the middle of the road having a serious like psych...
+AUD-504,Audio,C504,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Well, my husband's not, I cannot seem to wake him up."
+AUD-505,Audio,C505,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Now listen here. I've got two people here help hospital, right? Okay. Now you know what?"
+AUD-506,Audio,C506,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: see. Bargur was breaking into a house next door. What's the address there sir? 74.
+AUD-507,Audio,C507,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Our state, we have a Burmese python, it's about 12 foot long, she got out of the cage last night and got into..."
+AUD-508,Audio,C508,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: We were just said and talking my wife, you know Bob, and then she fell on the floor. Okay, what?"
+AUD-509,Audio,C509,Emergency Report,Wild Rock,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I don't want to go. Hey, just before I made a street up here by Wild Rock chasing us. Where are you at?"
+AUD-510,Audio,C510,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: It's a must've been shot. I haven't picked the vitals.
+AUD-511,Audio,C511,Crime/Assault,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: There's a guy there with a gun. Yeah. Black and white. Black and white.
+AUD-512,Audio,C512,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I just want to add that, there are some guys walking around and I'm talking about, looking at some girls that are gone. I think it's worth it. Tell me the ..."
+AUD-513,Audio,C513,Crime/Assault,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: Yeah, the man on the phone says there's a man on his property with a gun. Okay, and that's where the person is supposed to be too."
+AUD-514,Audio,C514,Emergency Report,Red Reef Park,N/A,4.0,Medium,Sentiment: Calm | Transcript: I just been bitten by a red tail fox up in Red Reef Park.
+AUD-515,Audio,C515,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes. We had a, I think, a shooting right now on the bus barn on the high school."
+AUD-516,Audio,C516,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: out, not working. Not working. My babies are in there. Oh my God, I'm moved here."
+AUD-517,Audio,C517,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Somebody just came in and shot my daughter and my husband. They shot them. Please send me a check. I love my girl.
+AUD-518,Audio,C518,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: is not breathing. Okay. Is there any way you can
+AUD-519,Audio,C519,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: What do I think? I think I need an ambulance. I've got a teenager who's turning purple in his face. I think he's soaked out or something.
+AUD-520,Audio,C520,Crime/Assault,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: Yeah, there's been a bunch of guns out to my house. I think a bunch of people were shot. We're at 2112 views."
+AUD-521,Audio,C521,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: estoy hablando aquí el chico de la mongos si, que pasa están unos hombres"
+AUD-522,Audio,C522,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Hi, what's your new phone? And a little girl just went into the bathroom and she said, come on, come to the bathroom."
+AUD-523,Audio,C523,Traffic Accident,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: And it's like I just tried to get out of this car. I got out of this car and he tried to get in my truck.
+AUD-524,Audio,C524,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Somebody has been shot. They're calling to please and an ambulance. Yes, does he want the horseshoe? Yes, what?"
+AUD-525,Audio,C525,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm just having older women standing here and she had noticed two gentlemen trying to get in a house.
+AUD-526,Audio,C526,Traffic Accident,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: So that's it. I got the stationary part of the car!! So I got my support done. You learn to keep mine safe. Almost all tutors are safe.
+AUD-527,Audio,C527,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I have been in the news recently about being on in a hotel naked.
+AUD-528,Audio,C528,Crime/Assault,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: There's an armed robbery going right on right now. I've been shot in the back and I'm bleeding. You've been shot in the back? Yes. OK.
+AUD-529,Audio,C529,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: And yes, my friends have to have me. He doesn't have to. He'll have to."
+AUD-530,Audio,C530,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: new
+AUD-531,Audio,C531,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: emergency, my girlfriend just jumped off the back of our hotel room."
+AUD-532,Audio,C532,Emergency Report,Burdenon Avenue,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, other guys been shot. Okay, right here on Burdenon Avenue. I want to see if the M1"
+AUD-533,Audio,C533,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: No, there's people trying to break in my house. Okay, they're there right now. They're here right now. They just spoke a basement window."
+AUD-534,Audio,C534,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Alright, I killed my girlfriend. Excuse me? Did you hear me? I want you to re-"
+AUD-535,Audio,C535,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: three black men in the middle of Russell Boulevard and one of them has like a
+AUD-536,Audio,C536,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: it was a bus. Let me see. Okay, I'm right. Yeah. It's wrapped by one..."
+AUD-537,Audio,C537,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: And with the already got somebody on the way, can you give me any kind of description? It's too black guys."
+AUD-538,Audio,C538,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: There are three black gentlemen that are there harassing the women out there.
+AUD-539,Audio,C539,Emergency Report,Mcdonald'S,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I was at a McDonald's, I paid $10 and these guys gave me one burger and a five."
+AUD-540,Audio,C540,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I gave you guys $10 they gave me one burger and a fry and told me to fuck.
+AUD-541,Audio,C541,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I've been run over. I've been run over. They all use real chat for...
+AUD-542,Audio,C542,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, my husband is a black man, I stabbed him. Okay, what's your address? 94 95 Stabber."
+AUD-543,Audio,C543,Traffic Accident,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm driving and I have somebody chasing me and they just hit my car.
+AUD-544,Audio,C544,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I'm gonna go to my son, he's here. He's here. I think he's drunk. I don't know if he has to go to my police."
+AUD-545,Audio,C545,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Well, I'm the arm drum now, I'm just trying to figure out the thing when you hit."
+AUD-546,Audio,C546,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Why do I think we have to make this shit worth a matter? I'm at the court.
+AUD-547,Audio,C547,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I have a concern for a co-worker. She just called me and sounded very...
+AUD-548,Audio,C548,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I just think, he's called family, he's dead. He's trying to hysterical, I can't understand. I'm having a ton of over this."
+AUD-549,Audio,C549,Fire/Structure Incident,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: That being fired in so many things, how? So I'm finshada. Yeah, you can slide there over."
+AUD-550,Audio,C550,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Someone is getting my house. It was an issue.
+AUD-551,Audio,C551,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I just saw a guy go into a room.
+AUD-552,Audio,C552,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: You need? It's time to set up. I'm sorry? I can show it to spec. Wow, want food?"
+AUD-553,Audio,C553,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Just been shot in front of my parents. You've been shot? Yes, right. Where have you been shot at? To the end of my leg."
+AUD-554,Audio,C554,Crime/Assault,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: Yes, the guy is following us with shotgun and he's trying to run us off the road. There you are. We're standing..."
+AUD-555,Audio,C555,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Somebody just broke into our house. With the address, Kevin, to me. With the address, I shot him. You shot him?"
+AUD-556,Audio,C556,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I just got my daughters and my children. You just did a lot of it? Got my daughters? Yes, got them."
+AUD-557,Audio,C557,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Which two people in the house? Do they have weapons? Huh? Yes. What type of...
+AUD-558,Audio,C558,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Hi, my name is Stephen Rodwald and I just heard a shoot my dad."
+AUD-559,Audio,C559,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: The baby was fully seeing the mother I had.
+AUD-560,Audio,C560,Traffic Accident,Stacy,N/A,4.0,Medium,Sentiment: Calm | Transcript: My name is Stacy and I'm driving towards Ontario and a car went off into me at my marker 22
+AUD-561,Audio,C561,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I just can't get him sex with a window. Is anybody hurting your house? I don't know yet.
+AUD-562,Audio,C562,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Two people are breathing towards no call. Yes.
+AUD-563,Audio,C563,Traffic Accident,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: What's going on? I don't know. Somebody broke the window I know. And your house or your car? Ah, smart."
+AUD-564,Audio,C564,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: there are two men who was going to try to kill me. They have my husband on the floor. He's bleeding. All right, what is he?"
+AUD-565,Audio,C565,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Hey, the sprawler has taken a very good death trail. Yeah, people enjoy it. So, so, so."
+AUD-566,Audio,C566,Fire/Structure Incident,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: and there were some kids over there, just one other kid, little fire and another kid in. Oh God."
+AUD-567,Audio,C567,Fire/Structure Incident,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: The little boy just called on fire and he jumped off the other swimming car. What's the address?
+AUD-568,Audio,C568,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I cut my wife so sweet in the bathtub and I think she's dead. I want you with the anger.
+AUD-569,Audio,C569,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: right now. She just gone and I need him out. Is this house? Okay, what do you mean, she would be in the end?"
+AUD-570,Audio,C570,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I just killed my boss. You just did what?
+AUD-571,Audio,C571,Crime/Assault,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: Yeah, I have a black guy in here. He says he's gonna wrap the store and anyone is supposed to give him He says he has a gun on him"
+AUD-572,Audio,C572,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Hello. I need to raise up to you. Please come on in.
+AUD-573,Audio,C573,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: please. Give me the address first, ma'am. Ma'am."
+AUD-574,Audio,C574,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I have so many people are shooting and people are running out of my building at work.
+AUD-575,Audio,C575,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, ma'am, I'm having a shot. BEEP BEEP"
+AUD-576,Audio,C576,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: May I ask something in future full movement, please<|hu|>"
+AUD-577,Audio,C577,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm bringing the key to the master right now. I work at 3 Bay and a couple of the ladies that work there just ran down here.
+AUD-578,Audio,C578,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: We were closing the store and the guy came in with a mask on and I think...
+AUD-579,Audio,C579,Fire/Structure Incident,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: I'm not sorry, my neighbor came. And now she said her husband said, the baby, I'll fire. I don't know, the lady."
+AUD-580,Audio,C580,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: He will just throw in my neighbor's house. Just the address. What's the address?
+AUD-581,Audio,C581,Emergency Report,Lake Avenue,N/A,4.0,Medium,Sentiment: Calm | Transcript: I think I got shot. Danny Sriper 4203 Lake Avenue with Fumbi.
+AUD-582,Audio,C582,Emergency Report,N/A,N/A,2.0,Low,Sentiment: Calm | Transcript: [Background noise / Dispatched tone / No clear speech]
+AUD-583,Audio,C583,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Your mommy's sick. If your mommy's sick, does she need an ambulance? Mommy."
+AUD-584,Audio,C584,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I woke up this morning and my daughter was not in the house. I don't know if she walked out. I don't know.
+AUD-585,Audio,C585,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: What's going on man?
+AUD-586,Audio,C586,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I just killed my daughter. You what? I just killed my daughter.
+AUD-587,Audio,C587,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I'm a literacy expert. Man, man, man, man, man, man, calm down."
+AUD-588,Audio,C588,Fire/Structure Incident,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: I need to unambient quickly and out of fire fire in commission
+AUD-589,Audio,C589,Fire/Structure Incident,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: The house is on fire. The house is blowing up. Can you guys can listen? We've already got a call. Is it on a line?
+AUD-590,Audio,C590,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: There's a man at my back door he's trying to get in.
+AUD-591,Audio,C591,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Более!
+AUD-592,Audio,C592,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: His friends are his friends because it's one of the things I don't know.
+AUD-593,Audio,C593,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: left heading south on 9.51. Yeah, it's a fairly new model truck. Looks like a Dodger afford."
+AUD-594,Audio,C594,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: We've found an elephant walking down the street near the community center, the rate 20."
+AUD-595,Audio,C595,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Oh, I was coming to pass out. Is there anything else? I was coming to pass out."
+AUD-596,Audio,C596,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I think I know why you could follow me home because somebody thinks it feels a big I can't drive home straight.
+AUD-597,Audio,C597,Crime/Assault,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: radio light happened in the lobby with the gun. All right. Is everybody OK? Everybody away from them? Oh, yeah."
+AUD-598,Audio,C598,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Can we meet police assistance for this? Okay, what's going on?"
+AUD-599,Audio,C599,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: My mom and her boyfriend and her boyfriend felt marijuana.
+AUD-600,Audio,C600,Traffic Accident,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I accidentally shot my husband. You accidentally shot your husband? Yes. OK, is he breathing?"
+AUD-601,Audio,C601,Emergency Report,N/A,N/A,2.0,Low,Sentiment: Calm | Transcript: [Background noise / Dispatched tone / No clear speech]
+AUD-602,Audio,C602,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Uh, these came up to visit all of the home fathers. Uh-huh. And I think they were lovely to see them."
+AUD-603,Audio,C603,Crime/Assault,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: I'm going to cost him a gunpoint and the 3400 block to highway drive southeast.
+AUD-604,Audio,C604,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I need to tell a few minutes to start shooting. I don't know where I'm at. One winter is dropping. The birds are falling.
+AUD-605,Audio,C605,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: We got a baby that's not responsible. We're at 3301 West Noelle Drive.
+AUD-606,Audio,C606,Emergency Report,Encona,N/A,4.0,Medium,Sentiment: Calm | Transcript: I'm going to return air cream. Just went down off of Encona. And airplane.
+AUD-607,Audio,C607,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I'm not in any danger right now, but it's all my urgent. These people, they came through my door."
+AUD-608,Audio,C608,Crime/Assault,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: I might just call it the potential robbery and my mother's been missing for... I don't know.
+AUD-609,Audio,C609,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yea, my room, my dad thinks that if someoneров realized that he did"
+AUD-610,Audio,C610,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I went off the road, I'm in a retention pond right now. You're in the retention pond? Yeah. Okay."
+AUD-611,Audio,C611,Crime/Assault,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: your emergency? I've got a gentleman in quarantine with a gun. I need someone here right now. I'm the storm manager.
+AUD-612,Audio,C612,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I need a phyllo-prove laser for a computer officer to my house.
+AUD-613,Audio,C613,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: you should be aware.
+AUD-614,Audio,C614,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: She's shooting at her! Come to the fucking house! That's not the way!
+AUD-615,Audio,C615,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I just killed my kids. What's your name, male? Julia Murray. What is it?"
+AUD-616,Audio,C616,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I'm not going to try to jump the other way, I'm going to go. And I'm trying to act like I can't hear you."
+AUD-617,Audio,C617,Fire/Structure Incident,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: the building on 334 south of 8 quarters on fire. Report of a house fire house fire.
+AUD-618,Audio,C618,Fire/Structure Incident,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: there's a house on fire. There's a house on fire. 30, 30, 30, 38."
+AUD-619,Audio,C619,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I think there's been a murder. Okay, and where is the person at? Is the victim?"
+AUD-620,Audio,C620,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I don't know, it's common, it's common. It's common. Woo."
+AUD-621,Audio,C621,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: There's a fight broke out in the liquor store. There's a customer holding him back. You guys need to...
+AUD-622,Audio,C622,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Let them dissaute me. Your husband shot you around, ma'am. Inherent stomach? In a second. Okay, worse?"
+AUD-623,Audio,C623,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I've got a black man here who's supposed to come out of house. Repanded.
+AUD-624,Audio,C624,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: We have a trainer in the water with one of our whales. The whale that's set up to be in the water with? Okay.
+AUD-625,Audio,C625,Traffic Accident,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: There's some car, there's some guy, there's gonna be a way more than that. Can you close?"
+AUD-626,Audio,C626,Fire/Structure Incident,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: I think the house will fire. Okay, with me, and we are is it? One, two, two, one, eight."
+AUD-627,Audio,C627,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, you're big. You just wanted to go back. I don't know where you are."
+AUD-628,Audio,C628,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yeah, I just killed somebody. You what? I just killed somebody. You killed somebody? Yeah."
+AUD-629,Audio,C629,Crime/Assault,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: In AA V45 guns display a��rumgive, as well as a"
+AUD-630,Audio,C630,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Orn Cavenday, there's somebody shot somebody in the store. Okay, orn Cavenday, where?"
+AUD-631,Audio,C631,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: the media leaders that died with a knife for me. Brown token. Don't threaten me.
+AUD-632,Audio,C632,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Okay, is that a single family home or an apartment man?"
+AUD-633,Audio,C633,Emergency Report,Santa,N/A,4.0,Medium,"Sentiment: Calm | Transcript: My point goes shot. Alright, Santa, I want to come in with you. Are you over there, Lesky?"
+AUD-634,Audio,C634,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: more hesitate now do, do, do, do, do, boom hold there's you in green air There's you in green- you receive and keep your chilis be free and for what? Okay ..."
+AUD-635,Audio,C635,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I don't have money to buy a ticket. I don't have money.
+AUD-636,Audio,C636,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: or there's none. This is my one one. Do you need police or medical...
+AUD-637,Audio,C637,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, they are killing so we have pardoned."
+AUD-638,Audio,C638,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Hey, I got her, I got an audio. Seminole with the transistor. Okay, pull it. Okay, I'm in the middle."
+AUD-639,Audio,C639,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I'm not a mom or a guy shot. What? I'm not a man, I'm not a guy shot. Bye, who?"
+AUD-640,Audio,C640,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: There's been an explosion on I 30 on I'm sorry 183 research. I'm gonna test you. I'm at
+AUD-641,Audio,C641,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Okay, what kind of plane was it? How big was it, sir? It looked like a desna, like a prop plane."
+AUD-642,Audio,C642,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: No, it's worth everything I'm getting ready to kill somebody. No, it's worth where? Everton. Everton?"
+AUD-643,Audio,C643,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: We are Не
+AUD-644,Audio,C644,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I just saw my best friend on the X-E-Santz. Oh my god! I just shot your best friend. How did- where did-
+AUD-645,Audio,C645,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: And it's what I already saw with me. Okay, how cool. Hey, buddy. Hey, buddy."
+AUD-646,Audio,C646,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: My dad told me my duck. Her, her dad."
+AUD-647,Audio,C647,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I went out broke. I hope she was not back and I was getting her in. Should have been like-
+AUD-648,Audio,C648,Emergency Report,Godfly,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Hey, guys, I just saw a Godfly, two shots after a..."
+AUD-649,Audio,C649,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I can't see anything. I was struck with a bottle. And I'm a freak.
+AUD-650,Audio,C650,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Heart, brain, unit, hatred Okay, are you?"
+AUD-651,Audio,C651,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: We had someone come in and asked for dial 911 that there's a woman yelling.
+AUD-652,Audio,C652,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Okay, it's a mind. Ma'am? Yes. What's the emergency? I..."
+AUD-653,Audio,C653,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: There's someone at my door and he keeps on knocking on the door and he tried opening it.
+AUD-654,Audio,C654,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I just killed my children. Excuse me? I just killed my children. Where are you?
+AUD-655,Audio,C655,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I have ordered food which is totally ridiculous you can get.
+AUD-656,Audio,C656,Crime/Assault,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: It sounded like gunshot behind the door. We were in the door at the title store.
+AUD-657,Audio,C657,Traffic Accident,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: This is an emergency. My car is in the litter right off the street. Mullins car.
+AUD-658,Audio,C658,Crime/Assault,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: I make sure to report gun shot wound. Someone gun shot wound.
+AUD-659,Audio,C659,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Okay, I got her a female shot 17831, someone had a new apartment and..."
+AUD-660,Audio,C660,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I just came home in my girlfriend and my mother somebody worked at the moment where I had a simple ad-
+AUD-661,Audio,C661,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: want to broken airs for
+AUD-662,Audio,C662,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: my brother killed my brother. I heard this street name but you're going outside in somewhere a second.
+AUD-663,Audio,C663,Traffic Accident,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: There's a guy laying on the road he's leaving. OK, man, I'm going to even hit by a car. I'm going to get started. I don't know."
+AUD-664,Audio,C664,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I can't find my son. Calm down. What is your address?
+AUD-665,Audio,C665,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: I killed my boat kids. I'm sorry? I killed my boat kids. They are dying. I...
+AUD-666,Audio,C666,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Is there a report of somebody shooting? I don't know where. Do you know if anybody's heard right now? Yeah.
+AUD-667,Audio,C667,Crime/Assault,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: Where's your emergency? There's a gunshot. We're at. Gunshot in 1600. 1600.
+AUD-668,Audio,C668,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Who are at our house and told us to break into our house? Okay, where's your mom at? She got-"
+AUD-669,Audio,C669,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Hello sir. Yeah. Did you dial 911 a little while ago?
+AUD-670,Audio,C670,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: The shoot over in the main center. That's why you serve. I'm in the building.
+AUD-671,Audio,C671,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: There are bees like hundreds swarming around a guy who can't get up off the ground thousand.
+AUD-672,Audio,C672,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: 20 feet underwater. There! We need to get out here! Out of here! 9-1!
+AUD-673,Audio,C673,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: And so we get fit What is that? Vyremal What kind of animal is that?
+AUD-674,Audio,C674,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I didn't mean it's gonna be right down. Alright, we will ask her this."
+AUD-675,Audio,C675,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: One of the kids was at the first holiday on the day and I don't know if she's okay enough.
+AUD-676,Audio,C676,Emergency Report,Green Park,N/A,4.0,Medium,"Sentiment: Calm | Transcript: The fight, man, it's smoking out, man. You think Green Park and Dogwood?"
+AUD-677,Audio,C677,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: She's not waking up. Okay. What's her address?
+AUD-678,Audio,C678,Emergency Report,El Maldior,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yeah, for El Maldior. What's going on? I want to keep on my vehicle."
+AUD-679,Audio,C679,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I just shot the Mormons Bishop over here until they're here. You did? Yes, it is. Your name?"
+AUD-680,Audio,C680,Crime/Assault,N/A,N/A,8.5,High,Sentiment: Distressed | Transcript: And this guy has a gun in my hat. I need the cloth. The God's got a gun in my hand. 17.
+AUD-681,Audio,C681,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: for like, at least four or five people are at the end. At where? Right."
+AUD-682,Audio,C682,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I'm going to start with the exact same rules. By a loose, okay? And if he conscious and breathing,"
+AUD-683,Audio,C683,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yeah, we just, I need to report a kidnapping. We're kidnapping, what happened? A guy in a..."
+AUD-684,Audio,C684,Emergency Report,Stacy,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Hi, I called a little while ago and believe I talked to Stacy. My..."
+AUD-685,Audio,C685,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: emergency.
+AUD-686,Audio,C686,Emergency Report,Penicry,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, ma'am. I need somebody to come to Penicry, Glendon. Okay."
+AUD-687,Audio,C687,Crime/Assault,The Banking Center,N/A,8.5,High,Sentiment: Distressed | Transcript: My name is Mary Lyons. I'm the Banking Center Manager at Bank of America at 185 Highland
+AUD-688,Audio,C688,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: You mean some reason to ask her on my mom? Yeah, I don't even, she just called."
+AUD-689,Audio,C689,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: This is the hospital. Where am I at? On that dog's office. They're shooting in the hallway around the eighth floor of their shooter.
+AUD-690,Audio,C690,Emergency Report,North Shore Road,N/A,4.0,Medium,Sentiment: Calm | Transcript: The old North Shore Road and my husband's been attacked by a bear.
+AUD-691,Audio,C691,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Somebody somebody's full of them is our shoe and they're not shot by two pieces. Okay, we're getting some up up."
+AUD-692,Audio,C692,Fire/Structure Incident,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: Oh my god, the fire! So now, it's the level where I'm inside."
+AUD-693,Audio,C693,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: on 23rd grade. This is Tony Guzman, I'm a staffer and he was overheaded towards."
+AUD-694,Audio,C694,Emergency Report,83Rd Street,N/A,4.0,Medium,"Sentiment: Calm | Transcript: high, a little airplane, a little one-engine airplane took off from the airport at 83rd Street in Christ."
+AUD-695,Audio,C695,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I'm sorry. Good outdoor. Good things. Yes, ma'am. Yes, ma'am."
+AUD-696,Audio,C696,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Hello. Is everything okay? Ah.
+AUD-697,Audio,C697,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Okay, what do you need to believe?"
+AUD-698,Audio,C698,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, I need the police please, as my house. Glad to. I think we need an ambulance."
+AUD-699,Audio,C699,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: Okay. We need a person back in the meat department to get an in.
+AUD-700,Audio,C700,Emergency Report,N/A,N/A,4.0,Medium,Sentiment: Calm | Transcript: What do you need? You need the police?
+AUD-701,Audio,C701,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Somebody go into my house. Where the hell is that? What's your address? Yeah, but..."
+AUD-702,Audio,C702,Crime/Assault,N/A,N/A,8.5,High,"Sentiment: Distressed | Transcript: We just got a lot to come upon. It's gonna come here with a gun, shot one of our employees, and uh..."
+AUD-703,Audio,C703,Emergency Report,Live Pls,N/A,4.0,Medium,Sentiment: Calm | Transcript: Not that it's bailing the floor against Live PLS at once Wait buuuh
+AUD-704,Audio,C704,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Oh, my mind's at the doctor. You're not at the doctor. Are you there alone?"
+AUD-705,Audio,C705,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: I spy here, John websites didn't show right up until 나 nem en log"
+AUD-706,Audio,C706,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Oh, there's a student. Who's been shot, man?"
+AUD-707,Audio,C707,Emergency Report,N/A,N/A,4.0,Medium,"Sentiment: Calm | Transcript: Yes, I need a police officer over here. What's going on? Um..."
+DOC-001,PDF,RPT_001,Cover Letter,Benton County Sheriff’s Office,2015-05-26,2.5,Low,Officer: Kelley Cradduck | Summary: The purpose of obtaining this vehicle is for it to be utilized by the Benton County Sheriffs Office Special Weapons and Tactics Team for the protection of ...
+DOC-002,PDF,RPT_002,Policies and Procedures,Benton County Sheriff’s Office,2014-08-01,2.5,Low,Officer: N/A | Summary: The purpose of this vehicle is that it will be utilized by the Benton County Sheriff's Office for the protection of law enforcement officers and citizens ...
+DOC-003,PDF,RPT_003,Training Lesson Plan,Benton Police Department,N/A,2.5,Low,Officer: Scotty Hodges | Summary: Students will become familiar with the basic operations of the ARV.
+DOC-004,PDF,RPT_004,Department Policy,Benton Police Department,2015-04-24,2.5,Low,Officer: N/A | Summary: This policy provides clear guidelines for the safe and effective deployment of the Benton.
+DOC-005,PDF,RPT_005,Letter,Arkansas Commission,2014-07-01,5.0,Medium,Officer: Brian Marshall | Summary: In response to your applications(s) for certification of law enforcement training to be conducted by your agency.
+DOC-006,PDF,RPT_006,Cover Letter,Bryant Police Department,2014-07-02,2.5,Low,"Officer: Mark Kizer | Summary: James the Bryant Police department sent 3 senior officers to MRAP training on July 2, train the trainer class."
+DOC-007,PDF,RPT_007,Department Policy,Cabot Police Department,N/A,2.5,Low,Officer: N/A | Summary: This policy is for internal use only and does not enlarge an employee’s civil liability in any way.
+DOC-008,PDF,RPT_008,Road Course Evaluation,Cabot Police Department,N/A,2.5,Low,"Officer: N/A | Summary: MRAP Road Course and Training annual MRAP Certification, Requires 4 minimum of 4 hour of evaluated driving while completing the following."
+DOC-009,PDF,RPT_009,Cover Letter,Craighead County Sheriff's Office,2015-05-29,2.5,Low,Officer: Marty Boyd | Summary: The purpose of this vehicle is to be utilized by the Craighead County Special Weapons and Tactics team for the protection of officers during high risk ...
+DOC-010,PDF,RPT_010,Cover Letter,Craighead County Sheriff's Office,2015-05-29,2.5,Low,"Officer: Randy Sharp | Summary: The following documentation is intended to document to intended use and training of the Mine Resistant Ambush Protection Vehicle, which was allocated to the ..."
+DOC-011,PDF,RPT_011,Training Lesson Plan,Craighead County Sheriff's Office,N/A,2.5,Low,Officer: Randy Sharp | Summary: Student will become familiar with the basic Operations of the Mine Resistant Ambush Protection The student will be able to identify the Power Plant and ...
+DOC-012,PDF,RPT_012,Cover Letter,Crawford County Sheriff's Department,2015-06-11,2.5,Low,Officer: Jim Damante | Summary: Jurisdiction size including MOU’s with surrounding counties is approximately 2729 Square miles We have MOU’s with Sebastian Franklin and Washington counties in ...
+DOC-013,PDF,RPT_013,Cover Letter,Crawford County Sheriff's Office,2015-01-27,2.5,Low,"Officer: Rick Dahlem | Summary: The following documentation is intended to document the intended use and training of the Mine Resistant Ambush Protection Vehicle, which was allocated to the ..."
+DOC-014,PDF,RPT_014,Training Lesson Plan,Crawford County Sheriff's Office,N/A,2.5,Low,Officer: Rick Dahlem | Summary: Student will become familiar with the basic Operations of the Mine Resistant Ambush Protection I The student will be able to identify the Power Plant and ...
+DOC-015,PDF,RPT_015,Cover Letter,Fort Smith Police Department,2015-01-19,2.5,Low,"Officer: Monty McMillen | Summary: The following documentation is intended to document the intended use and training of the Mine Resistant Ambush Protection Vehicle, which was allocated to the ..."
+DOC-016,PDF,RPT_016,Training Lesson Plan,Fort Smith Police Department,2014-06-30,2.5,Low,Officer: Monty McMillen | Summary: The student will become familiar with the basic Operations of the Mine Resistant Ambush Protection.
+DOC-017,PDF,RPT_017,Course Cover Sheet,Hot Springs Police Department,2015-05-05,2.5,Low,"Officer: Eric Wacaster | Summary: Course Cover Sheet from Hot Springs Police Department, 2015-05-05."
+DOC-018,PDF,RPT_018,Course Summary Sheet,Hot Springs Police Department,N/A,2.5,Low,"Officer: Eric Wacaster | Summary: To familiarize Hot Springs Police Department SWAT Operators with basic MRAP functions, preventative maintenance, and driving operations of the MRAP."
+DOC-019,PDF,RPT_019,Course Outline,Hot Springs Police Department,N/A,2.5,Low,Officer: Zac Rostan | Summary: General vehicle familiarization and identification.
+DOC-020,PDF,RPT_020,Cover Letter,Independence County Sheriffs Office,2015-05-21,2.5,Low,Officer: Steve Jeffery | Summary: The purpose of this vehicle is to be used by the Independence County Sheriffs Office for the protection of officers from potential gunfire during high risk ...
+DOC-021,PDF,RPT_021,Cover Letter,Jacksonville AR Police Department,2015-01-14,2.5,Low,"Officer: Brett Hibbs | Summary: The following documentation is intended to document to intended use and training of the Mine Resistant Ambush Protection Vehicle, which was allocated to the ..."
+DOC-022,PDF,RPT_022,Training Lesson Plan,Jacksonville AR Police Department,2014-07-19,2.5,Low,Officer: Brett Hibbs | Summary: The student will become familiar with the basic Operations of the Mine Resistant Ambush Protection.
+DOC-023,PDF,RPT_023,Standard Operating Procedure,Jefferson County Sheriff’s Office,2015-01-13,2.5,Low,Officer: N/A | Summary: The Jefferson County Sheriff recognizes and appreciates the uniqueness of this vehicle.
+DOC-024,PDF,RPT_024,Divisional Operating Procedure,Little Rock Police Department,2012-04-26,2.5,Low,Officer: N/A | Summary: The magnitude of demands for police service increases as today’s society becomes more mobile and affluent.
+DOC-025,PDF,RPT_025,Cover Letter,Little Rock Police Department,2015-05-21,2.5,Low,"Officer: Wayne Bewley | Summary: The training program was designed to help law enforcement mitigate risk to both officers and the public, and included both classroom and practical exercises."
+DOC-026,PDF,RPT_026,Memorandum,City of Little Rock Police Department,2014-06-17,5.0,Medium,"Officer: Walter Ederle | Summary: The operator training, which will train officers as operators and enable them to train other operators, is scheduled for July 1* and 2"" at our Training ..."
+DOC-027,PDF,RPT_027,Cover Letter,Smith Integrated Technology Services,N/A,2.5,Low,Officer: Paul Smith | Summary: My name is Paul Smith and I am the President of Smith Integrated Technology Services.
+DOC-028,PDF,RPT_028,Invoice,Little Rock Police Dept,2014-06-04,2.5,Low,Officer: N/A | Summary: Smith Integrated Technologies Training services regarding the M.R.A.P.
+DOC-029,PDF,RPT_029,Training Certificate,Joint Program Office,2014-07-02,2.5,Low,Officer: Antonio Metcalf | Summary: For the successful completion of the Caiman M.R.A.P.
+DOC-030,PDF,RPT_030,Training Certificate,Joint Program Office,2014-07-02,2.5,Low,Officer: Stuart Young | Summary: For the successful completion of the Caiman M.R.A.P.
+DOC-031,PDF,RPT_031,Training Certificate,Joint Program Office,2014-07-02,2.5,Low,Officer: Jeffery Plunkett | Summary: For the successful completion of the Caiman M.R.A.P.
+DOC-032,PDF,RPT_032,Training Certificate,Joint Program Office,2014-07-02,2.5,Low,Officer: Douglass Meiggs | Summary: For the successful completion of the Caiman M.R.A.P.
+DOC-033,PDF,RPT_033,Aircraft Request Form,Little Rock Police Department,2015-02-17,2.5,Low,"Officer: Kenton Buckner | Summary: If fixed wing, specific model: cia I C172 cis I Other."
+DOC-034,PDF,RPT_034,Cover Letter,Little Rock Police Department,2015-02-19,2.5,Low,Officer: N/A | Summary: The Little Rock Police Department currently employees over 500 sworn officers.
+DOC-035,PDF,RPT_035,Cover Letter,Lonoke County Sheriff’s Office,2015-12-01,2.5,Low,"Officer: John Staley | Summary: The following documentation is intended to document to intended use and training of the Mine Resistant Ambush Protection Vehicle, which was allocated to the ..."
+DOC-036,PDF,RPT_036,Training Lesson Plan,Lonoke County Sheriff’s Office,N/A,2.5,Low,Officer: James Hall | Summary: Student will become familiar with the basic Operations of the Mine Resistant Ambush Protection Vehicle (MRAP).
+DOC-037,PDF,RPT_037,Cover Letter,Mississippi County Sheriff's Department,2014-12-17,2.5,Low,Officer: N/A | Summary: The MRAP will be utilized by the Special Response team of the Mississippi County Sheriff's Department for the protection of its officers during high risk ...
+DOC-038,PDF,RPT_038,Cover Letter,Pulaski County Sheriff's Office,2015-06-08,2.5,Low,Officer: Doc Holladay | Summary: The purpose of the vehicle is for use by the PCSO Special Weapons and Tactics (SWAT) Team in the protection of personnel during high risk operations by ...
+DOC-039,PDF,RPT_039,Cover Letter,Rogers Police Department,2015-03-16,2.5,Low,"Officer: Hayes Minor | Summary: Intends to only allow personnel with appropriate training to use, operate, and maintain the MRAP assigned to the Rogers Police Department."
+DOC-040,PDF,RPT_040,Training Certificate,N/A,2014-07-18,2.5,Low,Officer: James Leslie | Summary: Joint Program Office ice or the successful completion of the RG-33 MRAP.
+DOC-041,PDF,RPT_041,Training Certificate,Joint Program Office,2014-07-18,2.5,Low,Officer: Thomas Helmich | Summary: For the successful completion of the RG-33 MRAP.
+DOC-042,PDF,RPT_042,Cover Letter,Union County Sheriff's Office,2015-06-01,2.5,Low,Officer: Mike Mcgough | Summary: The purpose of this vehicle is to be used by the Union County Sheriff's Office Special Response Team for the protection of officers during high risk operations ...
+IMG-001,Image,410fdc17-2713-406e-bc27-e740a20caa2b_jpg.rf.bdbc28714a3e15fbc8edb6d0335fa5c4,Fire Scene,N/A,N/A,8.7,High,"Objects: backpack, fire | OCR: N/A"
+IMG-002,Image,7306c383-82c9-4bed-a543-5c6a67c21ed0_jpg.rf.e8675e7a8fca0ddbe9caba9e92e17636,Fire Scene,N/A,N/A,10.0,High,Objects: fire | OCR: N/A
+IMG-003,Image,da67d5ac-d003-4790-90a2-c9796d5b8329_jpg.rf.3cb1fde88205952ae5ea96dca2a1c54e,Fire Scene,N/A,N/A,10.0,High,Objects: fire | OCR: N/A
+VID-001,Video,FRM_0010,Unidentified Motion,N/A,00:00:00,0.0,Low,Objects: N/A
+VID-002,Video,FRM_0020,Unidentified Motion,N/A,00:00:00,0.0,Low,Objects: N/A
+VID-003,Video,FRM_0030,Unidentified Motion,N/A,00:00:01,0.0,Low,Objects: N/A
+VID-004,Video,FRM_0040,Person Walking,N/A,00:00:01,6.0,Medium,Objects: 1 person
+VID-005,Video,FRM_0050,Unidentified Motion,N/A,00:00:02,0.0,Low,Objects: N/A
+VID-006,Video,FRM_0060,Person Walking,N/A,00:00:02,7.9,High,Objects: 1 person
+VID-007,Video,FRM_0070,Person Walking,N/A,00:00:02,6.9,Medium,Objects: 1 person
+VID-008,Video,FRM_0080,Unidentified Motion,N/A,00:00:03,7.3,High,Objects: 1 bird
+VID-009,Video,FRM_0130,Unidentified Motion,N/A,00:00:05,0.0,Low,Objects: N/A
+VID-010,Video,FRM_0140,Unidentified Motion,N/A,00:00:05,0.0,Low,Objects: N/A
+VID-011,Video,FRM_0150,Person Walking,N/A,00:00:06,4.7,Medium,Objects: 1 person
+VID-012,Video,FRM_0160,Unidentified Motion,N/A,00:00:06,5.9,Medium,Objects: 1 bird
+VID-013,Video,FRM_0170,Unidentified Motion,N/A,00:00:06,0.0,Low,Objects: N/A
+VID-014,Video,FRM_0180,Unidentified Motion,N/A,00:00:07,0.0,Low,Objects: N/A
+VID-015,Video,FRM_0190,Unidentified Motion,N/A,00:00:07,0.0,Low,Objects: N/A
+VID-016,Video,FRM_0490,Unidentified Motion,N/A,00:00:19,0.0,Low,Objects: N/A
+VID-017,Video,FRM_0500,Unidentified Motion,N/A,00:00:20,6.0,Medium,Objects: 1 bird
+VID-018,Video,FRM_0510,Unidentified Motion,N/A,00:00:20,0.0,Low,Objects: N/A
+VID-019,Video,FRM_0520,Unidentified Motion,N/A,00:00:20,5.3,Medium,Objects: 1 bird
+VID-020,Video,FRM_0530,Unidentified Motion,N/A,00:00:21,4.7,Medium,Objects: 1 bird
+VID-021,Video,FRM_0540,Multiple Persons / Crowd,N/A,00:00:21,4.6,Medium,Objects: 2 person
+VID-022,Video,FRM_0550,Unidentified Motion,N/A,00:00:22,5.3,Medium,Objects: 1 bird
+VID-023,Video,FRM_0560,Unidentified Motion,N/A,00:00:22,7.3,High,Objects: 1 bird
+VID-024,Video,FRM_0570,Unidentified Motion,N/A,00:00:22,0.0,Low,Objects: N/A
+VID-025,Video,FRM_0580,Person Walking,N/A,00:00:23,7.6,High,Objects: 1 person
+VID-026,Video,FRM_0590,Unidentified Motion,N/A,00:00:23,5.4,Medium,Objects: 1 bird
+VID-027,Video,FRM_0600,Unidentified Motion,N/A,00:00:24,6.6,Medium,Objects: 1 bird
+VID-028,Video,FRM_0610,Person Walking,N/A,00:00:24,7.4,High,Objects: 1 person
+VID-029,Video,FRM_0620,Unidentified Motion,N/A,00:00:24,0.0,Low,Objects: N/A
+VID-030,Video,FRM_0790,Unidentified Motion,N/A,00:00:31,0.0,Low,Objects: N/A
+VID-031,Video,FRM_0800,Unidentified Motion,N/A,00:00:32,5.2,Medium,Objects: 1 dog
+VID-032,Video,FRM_0810,Unidentified Motion,N/A,00:00:32,0.0,Low,Objects: N/A
+VID-033,Video,FRM_0820,Unidentified Motion,N/A,00:00:32,0.0,Low,Objects: N/A
+VID-034,Video,FRM_0860,Unidentified Motion,N/A,00:00:34,0.0,Low,Objects: N/A
+VID-035,Video,FRM_0870,Person Walking,N/A,00:00:34,4.8,Medium,Objects: 1 person
+VID-036,Video,FRM_0900,Unidentified Motion,N/A,00:00:36,0.0,Low,Objects: N/A
+VID-037,Video,FRM_0990,Person Walking,N/A,00:00:39,7.1,High,Objects: 1 person
+VID-038,Video,FRM_1000,Unidentified Motion,N/A,00:00:40,5.3,Medium,Objects: 1 bird
+VID-039,Video,FRM_1010,Person Walking,N/A,00:00:40,7.1,High,Objects: 1 person
+VID-040,Video,FRM_1020,Unidentified Motion,N/A,00:00:40,7.0,High,Objects: 1 bird
+VID-041,Video,FRM_1030,Unidentified Motion,N/A,00:00:41,0.0,Low,Objects: N/A
+VID-042,Video,FRM_1040,Unidentified Motion,N/A,00:00:41,4.1,Medium,Objects: 1 bird
+VID-043,Video,FRM_0010,Fighting / Altercation,N/A,00:00:00,0.0,Low,Objects: N/A
+VID-044,Video,FRM_0020,Fighting / Altercation,N/A,00:00:00,0.0,Low,Objects: N/A
+VID-045,Video,FRM_0030,Fighting / Altercation,N/A,00:00:01,5.3,Medium,Objects: 1 person
+VID-046,Video,FRM_0040,Fighting / Altercation,N/A,00:00:01,0.0,Low,Objects: N/A
+VID-047,Video,FRM_0050,Fighting / Altercation,N/A,00:00:02,0.0,Low,Objects: N/A
+VID-048,Video,FRM_0080,Fighting / Altercation,N/A,00:00:03,6.5,Medium,Objects: 1 person
+VID-049,Video,FRM_0090,Fighting / Altercation,N/A,00:00:03,6.7,Medium,Objects: 1 person
+VID-050,Video,FRM_0100,Fighting / Altercation,N/A,00:00:04,5.5,Medium,Objects: 1 bird
+VID-051,Video,FRM_0110,Fighting / Altercation,N/A,00:00:04,0.0,Low,Objects: N/A
+VID-052,Video,FRM_0130,Fighting / Altercation,N/A,00:00:05,4.1,Medium,Objects: 1 bird
+VID-053,Video,FRM_0140,Fighting / Altercation,N/A,00:00:05,4.5,Medium,Objects: 1 person
+VID-054,Video,FRM_0150,Fighting / Altercation,N/A,00:00:06,0.0,Low,Objects: N/A
+VID-055,Video,FRM_0160,Fighting / Altercation,N/A,00:00:06,5.2,Medium,Objects: 2 person
+VID-056,Video,FRM_0170,Fighting / Altercation,N/A,00:00:06,7.5,High,Objects: 1 person
+VID-057,Video,FRM_0180,Fighting / Altercation,N/A,00:00:07,0.0,Low,Objects: N/A
+VID-058,Video,FRM_0190,Fighting / Altercation,N/A,00:00:07,8.4,High,Objects: 1 person
+VID-059,Video,FRM_0200,Fighting / Altercation,N/A,00:00:08,4.5,Medium,Objects: 1 person
+VID-060,Video,FRM_0210,Fighting / Altercation,N/A,00:00:08,4.8,Medium,Objects: 2 person
+VID-061,Video,FRM_0240,Fighting / Altercation,N/A,00:00:09,0.0,Low,Objects: N/A
+VID-062,Video,FRM_0250,Fighting / Altercation,N/A,00:00:10,0.0,Low,Objects: N/A
+VID-063,Video,FRM_0260,Fighting / Altercation,N/A,00:00:10,7.0,High,Objects: 1 person
+VID-064,Video,FRM_0270,Fighting / Altercation,N/A,00:00:10,5.4,Medium,Objects: 1 person
+VID-065,Video,FRM_0290,Fighting / Altercation,N/A,00:00:11,4.7,Medium,Objects: 1 person
+VID-066,Video,FRM_0300,Fighting / Altercation,N/A,00:00:12,6.4,Medium,Objects: 1 person
+VID-067,Video,FRM_0310,Fighting / Altercation,N/A,00:00:12,0.0,Low,Objects: N/A
+VID-068,Video,FRM_0320,Fighting / Altercation,N/A,00:00:12,6.4,Medium,Objects: 1 person
+VID-069,Video,FRM_0360,Fighting / Altercation,N/A,00:00:14,5.4,Medium,Objects: 1 person
+VID-070,Video,FRM_0480,Fighting / Altercation,N/A,00:00:19,5.9,Medium,Objects: 1 bird
+VID-071,Video,FRM_0490,Fighting / Altercation,N/A,00:00:19,7.2,High,Objects: 1 person
+VID-072,Video,FRM_0500,Fighting / Altercation,N/A,00:00:20,0.0,Low,Objects: N/A
+VID-073,Video,FRM_0510,Fighting / Altercation,N/A,00:00:20,6.9,Medium,Objects: 1 person
+VID-074,Video,FRM_0520,Fighting / Altercation,N/A,00:00:20,0.0,Low,Objects: N/A
+VID-075,Video,FRM_0530,Fighting / Altercation,N/A,00:00:21,7.5,High,Objects: 1 person
+VID-076,Video,FRM_0540,Fighting / Altercation,N/A,00:00:21,6.2,Medium,Objects: 1 bird
+VID-077,Video,FRM_0550,Fighting / Altercation,N/A,00:00:22,7.7,High,Objects: 1 bird
+VID-078,Video,FRM_0560,Fighting / Altercation,N/A,00:00:22,8.1,High,Objects: 1 bird
+VID-079,Video,FRM_0570,Fighting / Altercation,N/A,00:00:22,0.0,Low,Objects: N/A
+VID-080,Video,FRM_0580,Fighting / Altercation,N/A,00:00:23,6.1,Medium,Objects: 1 bird
+VID-081,Video,FRM_0590,Fighting / Altercation,N/A,00:00:23,8.2,High,Objects: 1 person
+VID-082,Video,FRM_0610,Fighting / Altercation,N/A,00:00:24,8.7,High,Objects: 1 person
+VID-083,Video,FRM_0620,Fighting / Altercation,N/A,00:00:24,6.1,Medium,Objects: 1 bird
+VID-084,Video,FRM_0630,Fighting / Altercation,N/A,00:00:25,0.0,Low,Objects: N/A
+VID-085,Video,FRM_0640,Fighting / Altercation,N/A,00:00:25,4.8,Medium,Objects: 1 bird
+VID-086,Video,FRM_0650,Fighting / Altercation,N/A,00:00:26,5.0,Medium,Objects: 1 bird
+VID-087,Video,FRM_0660,Fighting / Altercation,N/A,00:00:26,0.0,Low,Objects: N/A
+VID-088,Video,FRM_0670,Fighting / Altercation,N/A,00:00:26,7.6,High,Objects: 1 person
+VID-089,Video,FRM_0680,Fighting / Altercation,N/A,00:00:27,0.0,Low,Objects: N/A
+VID-090,Video,FRM_0690,Fighting / Altercation,N/A,00:00:27,0.0,Low,Objects: N/A
+VID-091,Video,FRM_0700,Fighting / Altercation,N/A,00:00:28,6.0,Medium,Objects: 1 bird
+VID-092,Video,FRM_0720,Fighting / Altercation,N/A,00:00:28,4.9,Medium,Objects: 1 bird
+VID-093,Video,FRM_0730,Fighting / Altercation,N/A,00:00:29,0.0,Low,Objects: N/A
+VID-094,Video,FRM_0740,Fighting / Altercation,N/A,00:00:29,0.0,Low,Objects: N/A
+VID-095,Video,FRM_0750,Fighting / Altercation,N/A,00:00:30,0.0,Low,Objects: N/A
+VID-096,Video,FRM_0760,Fighting / Altercation,N/A,00:00:30,0.0,Low,Objects: N/A
+VID-097,Video,FRM_0770,Fighting / Altercation,N/A,00:00:30,0.0,Low,Objects: N/A
+VID-098,Video,FRM_0780,Fighting / Altercation,N/A,00:00:31,0.0,Low,Objects: N/A
+VID-099,Video,FRM_0790,Fighting / Altercation,N/A,00:00:31,0.0,Low,Objects: N/A
+VID-100,Video,FRM_0800,Fighting / Altercation,N/A,00:00:32,0.0,Low,Objects: N/A
+VID-101,Video,FRM_0030,Fighting / Altercation,N/A,00:00:01,6.7,Medium,Objects: 1 person
+VID-102,Video,FRM_0040,Fighting / Altercation,N/A,00:00:01,0.0,Low,Objects: N/A
+VID-103,Video,FRM_0050,Fighting / Altercation,N/A,00:00:02,0.0,Low,Objects: N/A
+VID-104,Video,FRM_0060,Fighting / Altercation,N/A,00:00:02,0.0,Low,Objects: N/A
+VID-105,Video,FRM_0070,Fighting / Altercation,N/A,00:00:02,0.0,Low,Objects: N/A
+VID-106,Video,FRM_0080,Fighting / Altercation,N/A,00:00:03,0.0,Low,Objects: N/A
+VID-107,Video,FRM_0090,Fighting / Altercation,N/A,00:00:03,0.0,Low,Objects: N/A
+VID-108,Video,FRM_0240,Fighting / Altercation,N/A,00:00:09,8.4,High,Objects: 1 person
+VID-109,Video,FRM_0250,Fighting / Altercation,N/A,00:00:10,0.0,Low,Objects: N/A
+VID-110,Video,FRM_0260,Fighting / Altercation,N/A,00:00:10,5.0,Medium,Objects: 1 person
+VID-111,Video,FRM_0270,Fighting / Altercation,N/A,00:00:10,0.0,Low,Objects: N/A
+VID-112,Video,FRM_0280,Fighting / Altercation,N/A,00:00:11,0.0,Low,Objects: N/A
+VID-113,Video,FRM_0290,Fighting / Altercation,N/A,00:00:11,7.4,High,Objects: 1 person
+VID-114,Video,FRM_0300,Fighting / Altercation,N/A,00:00:12,6.1,Medium,Objects: 1 person
+VID-115,Video,FRM_0310,Fighting / Altercation,N/A,00:00:12,5.5,Medium,Objects: 1 person
+VID-116,Video,FRM_0320,Fighting / Altercation,N/A,00:00:12,4.0,Medium,Objects: 1 bird
+VID-117,Video,FRM_0350,Fighting / Altercation,N/A,00:00:14,6.7,Medium,Objects: 1 person
+VID-118,Video,FRM_0360,Fighting / Altercation,N/A,00:00:14,4.1,Medium,Objects: 1 person
+VID-119,Video,FRM_0380,Fighting / Altercation,N/A,00:00:15,0.0,Low,Objects: N/A
+VID-120,Video,FRM_0390,Fighting / Altercation,N/A,00:00:15,0.0,Low,Objects: N/A
+VID-121,Video,FRM_0400,Fighting / Altercation,N/A,00:00:16,0.0,Low,Objects: N/A
+VID-122,Video,FRM_0170,Unidentified Motion,N/A,00:00:06,0.0,Low,Objects: N/A
+VID-123,Video,FRM_0180,Unidentified Motion,N/A,00:00:07,0.0,Low,Objects: N/A
+VID-124,Video,FRM_0190,Unidentified Motion,N/A,00:00:07,0.0,Low,Objects: N/A
+VID-125,Video,FRM_0200,Unidentified Motion,N/A,00:00:08,0.0,Low,Objects: N/A
+VID-126,Video,FRM_0210,Unidentified Motion,N/A,00:00:08,0.0,Low,Objects: N/A
+VID-127,Video,FRM_0220,Unidentified Motion,N/A,00:00:08,5.1,Medium,Objects: 1 bird
+VID-128,Video,FRM_0230,Unidentified Motion,N/A,00:00:09,0.0,Low,Objects: N/A
+VID-129,Video,FRM_0240,Person Walking,N/A,00:00:09,5.9,Medium,Objects: 1 person
+VID-130,Video,FRM_0250,Person Walking,N/A,00:00:10,4.1,Medium,"Objects: 1 person, 1 bird"
+VID-131,Video,FRM_0260,Unidentified Motion,N/A,00:00:10,5.0,Medium,Objects: 1 bird
+VID-132,Video,FRM_0270,Person Walking,N/A,00:00:10,5.2,Medium,"Objects: 1 person, 1 bird"
+VID-133,Video,FRM_0280,Person Walking,N/A,00:00:11,5.3,Medium,Objects: 1 person
+VID-134,Video,FRM_0290,Unidentified Motion,N/A,00:00:11,5.3,Medium,Objects: 1 bird
+VID-135,Video,FRM_0300,Unidentified Motion,N/A,00:00:12,0.0,Low,Objects: N/A
+VID-136,Video,FRM_0310,Unidentified Motion,N/A,00:00:12,0.0,Low,Objects: N/A
+VID-137,Video,FRM_0320,Unidentified Motion,N/A,00:00:12,0.0,Low,Objects: N/A
+VID-138,Video,FRM_0330,Unidentified Motion,N/A,00:00:13,0.0,Low,Objects: N/A
+VID-139,Video,FRM_0340,Unidentified Motion,N/A,00:00:13,0.0,Low,Objects: N/A
+VID-140,Video,FRM_0350,Unidentified Motion,N/A,00:00:14,0.0,Low,Objects: N/A
+VID-141,Video,FRM_0360,Unidentified Motion,N/A,00:00:14,0.0,Low,Objects: N/A
+VID-142,Video,FRM_0010,Person Collapsing,N/A,00:00:00,0.0,Low,Objects: N/A
+VID-143,Video,FRM_0070,Person Collapsing,N/A,00:00:02,8.0,High,Objects: 2 bird
+VID-144,Video,FRM_0200,Person Collapsing,N/A,00:00:08,5.7,Medium,"Objects: 1 person, 1 bird"
+VID-145,Video,FRM_0210,Person Collapsing,N/A,00:00:08,6.8,Medium,Objects: 1 person
+VID-146,Video,FRM_0220,Person Collapsing,N/A,00:00:08,0.0,Low,Objects: N/A
+VID-147,Video,FRM_0230,Person Collapsing,N/A,00:00:09,8.3,High,Objects: 1 person
+VID-148,Video,FRM_0240,Person Collapsing,N/A,00:00:09,0.0,Low,Objects: N/A
+VID-149,Video,FRM_0250,Person Collapsing,N/A,00:00:10,0.0,Low,Objects: N/A
+VID-150,Video,FRM_0260,Person Collapsing,N/A,00:00:10,5.4,Medium,Objects: 1 person
+VID-151,Video,FRM_0270,Person Collapsing,N/A,00:00:10,0.0,Low,Objects: N/A
+VID-152,Video,FRM_0280,Person Collapsing,N/A,00:00:11,0.0,Low,Objects: N/A
+VID-153,Video,FRM_0620,Person Collapsing,N/A,00:00:24,0.0,Low,Objects: N/A
+VID-154,Video,FRM_0630,Person Collapsing,N/A,00:00:25,0.0,Low,Objects: N/A
+VID-155,Video,FRM_0640,Person Collapsing,N/A,00:00:25,6.2,Medium,Objects: 1 bird
+VID-156,Video,FRM_0650,Person Collapsing,N/A,00:00:26,4.0,Medium,Objects: 1 bird
+VID-157,Video,FRM_0660,Person Collapsing,N/A,00:00:26,6.4,Medium,Objects: 1 person
+VID-158,Video,FRM_0690,Person Collapsing,N/A,00:00:27,7.4,High,Objects: 1 person
+VID-159,Video,FRM_0950,Person Collapsing,N/A,00:00:38,5.8,Medium,Objects: 1 person
+VID-160,Video,FRM_0960,Person Collapsing,N/A,00:00:38,6.5,Medium,Objects: 2 person
+VID-161,Video,FRM_0970,Person Collapsing,N/A,00:00:38,5.2,Medium,"Objects: 1 person, 1 bird"
+VID-162,Video,FRM_0980,Person Collapsing,N/A,00:00:39,6.3,Medium,Objects: 1 bird
+VID-163,Video,FRM_0990,Person Collapsing,N/A,00:00:39,0.0,Low,Objects: N/A
+VID-164,Video,FRM_1000,Person Collapsing,N/A,00:00:40,6.3,Medium,Objects: 1 bird
+TXT-001,Text,TXT_001,Assault / Violence,N/A,N/A,8.5,High,"Handle: @spann | Sentiment: Negative | Text: Active crime scene on I-59/20 near Jeff/Tusc Co line. One dead, one injured; shooting involved. Police search in the area; traffic stopped"
+TXT-002,Text,TXT_002,Assault / Violence,N/A,N/A,5.5,Medium,Handle: @telegramreports | Sentiment: Neutral | Text: Police have arrested a suspect in the Monday shooting at the basketball courts behind Word Tabernacle Church. http://t.co/X67i7jajij
+TXT-003,Text,TXT_003,Public Disturbance,Chicago,N/A,4.0,Medium,Handle: @RaniaKhalek | Sentiment: Neutral | Text: Lawsuit alleges Chicago Police strip-searched trio in public http://t.co/NGVCe42BUW via @suntimes
+TXT-004,Text,TXT_004,Other,N/A,N/A,4.0,Medium,Handle: @EricBoehlert | Sentiment: Neutral | Text: New NRA Advice: Don't Cooperate With Police If Your Gun Shows Up At A Crime Scene; http://t.co/f96jCNY3wV #patriots #liberty
+TXT-005,Text,TXT_005,Other,N/A,N/A,7.0,High,"Handle: @thetimes | Sentiment: Negative | Text: Police failing to stamp out ‘honour crimes’, from domestic violence and forced marriage to FGM and murder http://t.co/SLuXLgbQbU"
+TXT-006,Text,TXT_006,Public Disturbance,N/A,N/A,7.0,High,Handle: @thetimes | Sentiment: Negative | Text: Today's front page: Police failing to stamp out ‘honour crimes’ http://t.co/SLuXLgbQbU http://t.co/w7ft9HW4Vx
+TXT-007,Text,TXT_007,Theft / Robbery,N/A,N/A,5.5,Medium,Handle: @WGRZ | Sentiment: Neutral | Text: Town of Tonawanda Police Search for Bank Robbery Suspect http://t.co/4aJxs3Mv9G http://t.co/320mwHfuPl
+TXT-008,Text,TXT_008,Assault / Violence,Pakistan,N/A,8.5,High,"Handle: @persecutionnews | Sentiment: Negative | Text: Due to lack of police protection, #Christians in #Pakistan become easy targets for crime and abuse. http://t.co/6Ld0Zs9h29 ^ws"
+TXT-009,Text,TXT_009,Other,N/A,N/A,4.0,Medium,Handle: @timothywjohnson | Sentiment: Neutral | Text: New #NRA Advice: Don't Cooperate With Police If Your Gun Shows Up At A Crime Scene http://t.co/ldIDJ75Did
+TXT-010,Text,TXT_010,Public Disturbance,Baltimore,N/A,4.0,Medium,Handle: @NeillFranklin | Sentiment: Neutral | Text: Commish Batts makes a strong case for legalizing marijuana - to end the violent MJ trade in Baltimore. @baltimoresun http://t.co/A0TRUflAYl
+TXT-011,Text,TXT_011,Public Disturbance,Redbridge,N/A,4.0,Medium,Handle: @saramo | Sentiment: Neutral | Text: Police swoop on the homeless taking sleeping bags and food parcels in co-ordinated raids in Redbridge http://t.co/ZWmE54jhBP
+TXT-012,Text,TXT_012,Public Disturbance,N/A,N/A,4.0,Medium,Handle: @DemandAction | Sentiment: Neutral | Text: #NRAadvice: Don’t cooperate with police if your gun shows up at a crime scene: http://t.co/c96U10ed1l
+TXT-013,Text,TXT_013,Other,N/A,N/A,4.0,Medium,Handle: @DC_Police | Sentiment: Neutral | Text: #Police : Become a Special Constable and help cut crime http://t.co/taxFZeQ4Vx Devon Cornwall
+TXT-014,Text,TXT_014,Assault / Violence,N/A,N/A,5.5,Medium,Handle: @bradybuzz | Sentiment: Neutral | Text: BREAKING NEWS: Judge’s ruling favors officers in Badger Guns suit: http://t.co/QcQP0vLtd4
+TXT-015,Text,TXT_015,Other,N/A,N/A,7.0,High,Handle: @MikePannett | Sentiment: Negative | Text: Woman police sergeant dives in river to drag drowning woman to safety http://t.co/WKSZ2Obw1k via @MailOnline Just #crime fighters? Nope!!!
+TXT-016,Text,TXT_016,Other,Delhi,N/A,7.0,High,Handle: @naushad1002 | Sentiment: Negative | Text: RT @blackmagicgal1: So AAP will continue to cry foul at Delhi police whenever a crime is reported rather than take responsibility like a go…
+TXT-017,Text,TXT_017,Other,Delhi,N/A,7.0,High,Handle: @AAPRevolutionCG | Sentiment: Negative | Text: RT @shiven_gaur: Crime/Lawlessness has always been a problem in Delhi. Home minister and Delhi Police are answerable. Media shud stop blami…
+TXT-018,Text,TXT_018,Other,Delhi,N/A,7.0,High,Handle: @snehashanti | Sentiment: Negative | Text: RT @shiven_gaur: Crime/Lawlessness has always been a problem in Delhi. Home minister and Delhi Police are answerable. Media shud stop blami…
+TXT-019,Text,TXT_019,Other,Delhi,N/A,7.0,High,Handle: @DeepHarshdeep05 | Sentiment: Negative | Text: RT @shiven_gaur: Crime/Lawlessness has always been a problem in Delhi. Home minister and Delhi Police are answerable. Media shud stop blami…
+TXT-020,Text,TXT_020,Other,N/A,N/A,7.0,High,Handle: @AshaAholic | Sentiment: Negative | Text: RT @CherryFlavoredd: Cause there isn't any real crime anywhere.. RT @DrinkingTicket: Police around capstone dorm arresting kids looking dru…
+TXT-021,Text,TXT_021,Other,Delhi,N/A,7.0,High,Handle: @VISHSAI | Sentiment: Negative | Text: RT @shiven_gaur: Crime/Lawlessness has always been a problem in Delhi. Home minister and Delhi Police are answerable. Media shud stop blami…
+TXT-022,Text,TXT_022,Other,N/A,N/A,7.0,High,Handle: @tenACEous_b1u | Sentiment: Negative | Text: RT @CherryFlavoredd: Cause there isn't any real crime anywhere.. RT @DrinkingTicket: Police around capstone dorm arresting kids looking dru…
+TXT-023,Text,TXT_023,Public Disturbance,N/A,N/A,4.0,Medium,Handle: @prklbrln | Sentiment: Neutral | Text: RT @DemandAction: #NRAadvice: Don’t cooperate with police if your gun shows up at a crime scene: http://t.co/c96U10ed1l
+TXT-024,Text,TXT_024,Other,Delhi,N/A,7.0,High,Handle: @tweetingpritha | Sentiment: Negative | Text: RT @shiven_gaur: Crime/Lawlessness has always been a problem in Delhi. Home minister and Delhi Police are answerable. Media shud stop blami…
+TXT-025,Text,TXT_025,Other,N/A,N/A,7.0,High,Handle: @CherryFlavoredd | Sentiment: Negative | Text: Cause there isn't any real crime anywhere.. RT @DrinkingTicket: Police around capstone dorm arresting kids looking drunk coming back home...
+TXT-026,Text,TXT_026,Theft / Robbery,Delhi,N/A,5.5,Medium,"Handle: @Ghulam_Rasool1 | Sentiment: Neutral | Text: India News Delhi Police arrests three in Rs 8 cr heist, some cash recovered, mastermind absconding http://t.co/HiyzKtG4cN"
+TXT-027,Text,TXT_027,Public Disturbance,Mumbai,N/A,4.0,Medium,"Handle: @Ghulam_Rasool1 | Sentiment: Neutral | Text: India News Police sniffer dog's bark lands man in Mumbai jail for 10 years, High Court orders his release http://t.co/KAd6IIFW7r"
+TXT-028,Text,TXT_028,Other,Delhi,N/A,7.0,High,Handle: @shiven_gaur | Sentiment: Negative | Text: Crime/Lawlessness has always been a problem in Delhi. Home minister and Delhi Police are answerable. Media shud stop blaming AAP.
+TXT-029,Text,TXT_029,Other,N/A,N/A,4.0,Medium,Handle: @jared97924980 | Sentiment: Neutral | Text: I added a video to a @YouTube playlist http://t.co/cir6DgKsvp World's Scariest Police Chases 4 (Crime Documentary)
+TXT-030,Text,TXT_030,Other,N/A,N/A,4.0,Medium,Handle: @LawTweets1 | Sentiment: Neutral | Text: New #Legal Remedy Against Police Activities Within Criminal Investigations - Mondaq News Alerts (registration) http://t.co/S1XdGyPOUE
+TXT-031,Text,TXT_031,Public Disturbance,N/A,N/A,4.0,Medium,Handle: @Aus_Crime_News | Sentiment: Neutral | Text: Police seek witnesses to grass fires (Delahey - VIC): http://t.co/7OEdJQvhMi
+TXT-032,Text,TXT_032,Other,N/A,N/A,7.0,High,Handle: @Mmunshi01 | Sentiment: Negative | Text: It's so shallow as for evry crime police is being blamed in #capital by govnment!they mean police has to b present ther b4 crime take place.
+TXT-033,Text,TXT_033,Assault / Violence,Onitsha,N/A,5.5,Medium,Handle: @royaltimesng | Sentiment: Neutral | Text: Police swoop on kidnappers’ den in Onitsha - http://t.co/HeOoghHHKt http://t.co/AuQrW32iil
+TXT-034,Text,TXT_034,Other,N/A,N/A,7.0,High,"Handle: @JMcGuire6094 | Sentiment: Negative | Text: RT @Gun_Shots: ""95% of the time police arrive too late to prevent a crime or arrest the suspect."" - US News and World Report, 17 June 1998"
+TXT-035,Text,TXT_035,Other,N/A,N/A,7.0,High,"Handle: @Greatbear100 | Sentiment: Negative | Text: @BansheeTvShow The entire police department, the bartender, the gay tech all were in the showdown but only Carrie is charged with a crime?"
+TXT-036,Text,TXT_036,Public Disturbance,N/A,N/A,4.0,Medium,Handle: @Aus_Crime_News | Sentiment: Neutral | Text: Police union wants lock out zones expanded: http://t.co/hu8zOehB7G
+TXT-037,Text,TXT_037,Public Disturbance,Petaluma,N/A,4.0,Medium,Handle: @BayAreaBizness | Sentiment: Neutral | Text: Alert issued in Petaluma after men posing as police enter woman's home: http://t.co/Gq7RrjkwXs
+TXT-038,Text,TXT_038,Other,Bay Area,N/A,7.0,High,Handle: @joemullin | Sentiment: Negative | Text: Bay Area journos on crime beat: there are 4 police cars &amp; yellow tape at sunny spot med. MJ shop on 17th right now. Don't know what's up.
+TXT-039,Text,TXT_039,Assault / Violence,N/A,N/A,8.5,High,"Handle: @StevenRoark87 | Sentiment: Negative | Text: RT @Darius_Suber95: Police are supposed to be fighting crime on the streets, not sitting in a hiding spot waiting to give someone a hoe ass…"
+TXT-040,Text,TXT_040,Assault / Violence,N/A,N/A,5.5,Medium,Handle: @OntNewsToday | Sentiment: Neutral | Text: Peel #Police - Male Arrested on Attempt Murder Warrant http://t.co/tDQE83bFXX #crime
+TXT-041,Text,TXT_041,Public Disturbance,St. Louis County,N/A,4.0,Medium,Handle: @stltoday | Sentiment: Neutral | Text: Belmar named St. Louis County police chief http://t.co/MXbeCRaJ5K
+TXT-042,Text,TXT_042,Other,N/A,N/A,7.0,High,Handle: @arpitupadhayay | Sentiment: Negative | Text: RT @geophyraj: Is Mr @ArvindKejriwal going to blame Delhi Police for every crime in the city? Then what was Shiela Dikshit's fault?
+TXT-043,Text,TXT_043,Assault / Violence,N/A,N/A,8.5,High,"Handle: @chiweethedog | Sentiment: Negative | Text: ""Men posing as police: Petaluma home invasion."" Uh, I'm not letting any cop in w/out a badge number confirmed. http://t.co/90vu7IBTx1"
+TXT-044,Text,TXT_044,Assault / Violence,Delhi,N/A,8.5,High,"Handle: @urmilachauhan | Sentiment: Negative | Text: #NidoTaniam paid for breaking the glass, why were the shopkeepers not made to pay for their crime of beating him.#Delhi police must answer"
+TXT-045,Text,TXT_045,Assault / Violence,Pontchartrain Park,N/A,5.5,Medium,Handle: @newslouisiana | Sentiment: Neutral | Text: The Times Picayune - Police investigating shooting in Pontchartrain Park http://t.co/iVehmyxnys
+TXT-046,Text,TXT_046,Assault / Violence,Delhi,N/A,8.5,High,"Handle: @Kewrious | Sentiment: Negative | Text: #NidoTaniam paid for breaking the glass, why were the shopkeepers not made to pay for their crime of beating him.#Delhi police must answer"
+TXT-047,Text,TXT_047,Other,Delhi,N/A,7.0,High,Handle: @rajbharat | Sentiment: Negative | Text: RT @blackmagicgal1: So AAP will continue to cry foul at Delhi police whenever a crime is reported rather than take responsibility like a go…
+TXT-048,Text,TXT_048,Public Disturbance,N/A,N/A,4.0,Medium,Handle: @AmerHeroesRadio | Sentiment: Neutral | Text: #Justice U.S. Marshals Task Force and Toledo Police Arrest Final Suspect in Murder Case: Tole... http://t.co/c5u4Mw7Feq #crime #HiTechCJ
+TXT-049,Text,TXT_049,Public Disturbance,Petaluma,N/A,4.0,Medium,Handle: @SFnewsnow | Sentiment: Neutral | Text: Alert issued in Petaluma after men posing as police enter woman's home http://t.co/lVcwrHXthc #bayarea
+TXT-050,Text,TXT_050,Other,N/A,N/A,4.0,Medium,Handle: @Secretss_ | Sentiment: Neutral | Text: Watching crime and investigation and one of the police audio analysis investigators is wearing a pair of beats audio headphones.
+TXT-051,Text,TXT_051,Public Disturbance,Petaluma,N/A,4.0,Medium,Handle: @burlingame_news | Sentiment: Neutral | Text: Alert issued in Petaluma after men posing as police enter woman's home: Petaluma police issued a prowler alert... http://t.co/2iQRugpWfn
+TXT-052,Text,TXT_052,Assault / Violence,Pontchartrain Park,N/A,5.5,Medium,Handle: @HSVLaw | Sentiment: Neutral | Text: via @NOLAnews Police investigating shooting in Pontchartrain Park http://t.co/ikLjlj9V6V
+TXT-053,Text,TXT_053,Other,Detroit,N/A,4.0,Medium,Handle: @noblockheads | Sentiment: Neutral | Text: Police Chief James Craig: More guns could equal less crime in Detroit http://t.co/CACeNrG6Kt
+TXT-054,Text,TXT_054,Other,N/A,N/A,7.0,High,Handle: @BodBuildChem | Sentiment: Negative | Text: Again port st lucie!i know there's crime everywhere but they just stupid here http://t.co/qdSW6gWSA4
+TXT-055,Text,TXT_055,Assault / Violence,N/A,N/A,5.5,Medium,Handle: @ohminews | Sentiment: Neutral | Text: Crime reports offered online http://t.co/gW087y5ELT
+TXT-056,Text,TXT_056,Assault / Violence,N/A,N/A,5.5,Medium,Handle: @westerie | Sentiment: Neutral | Text: Crime reports offered online http://t.co/tmzdPaJaWi
+TXT-057,Text,TXT_057,Assault / Violence,Lincolnshire,N/A,5.5,Medium,Handle: @davidbexhill | Sentiment: Neutral | Text: Safeguarding: Investigation into 'why Lincolnshire police marked one third of all reported rapes as 'no crime'': http://t.co/MvMGf8Ehzv
+TXT-058,Text,TXT_058,Public Disturbance,Petaluma,N/A,4.0,Medium,Handle: @BayAreaBizness | Sentiment: Neutral | Text: Alert issued in Petaluma after men posing as police enter woman's home: Petaluma police issued a prowler alert... http://t.co/Gq7RrjkwXs
+TXT-059,Text,TXT_059,Public Disturbance,N/A,N/A,7.0,High,Handle: @ToadiedeOgre | Sentiment: Negative | Text: RT @Sissy2814: Some ppl are unfit to deserve such loyal companion. This is a crime if you see this call police. http://t.co/IDcRLIDO5L WHO …
+TXT-060,Text,TXT_060,Public Disturbance,N/A,N/A,7.0,High,Handle: @LOCO_NUTT | Sentiment: Negative | Text: RT @Sissy2814: Some ppl are unfit to deserve such loyal companion. This is a crime if you see this call police. http://t.co/IDcRLIDO5L WHO …
+TXT-061,Text,TXT_061,Other,N/A,N/A,4.0,Medium,Handle: @westerie | Sentiment: Neutral | Text: Suburban Crime Log: 2-01 http://t.co/bCWfqPZo0W
+TXT-062,Text,TXT_062,Other,N/A,N/A,4.0,Medium,Handle: @toledonews | Sentiment: Neutral | Text: Suburban Crime Log: 2-01 http://t.co/rf5vK5sh5X
+TXT-063,Text,TXT_063,Other,N/A,N/A,4.0,Medium,Handle: @AiwNews | Sentiment: Neutral | Text: UPDATED: Big data: police given access to British army's crime-fighting software http://t.co/XkU8xSx6vV
+TXT-064,Text,TXT_064,Public Disturbance,N/A,N/A,4.0,Medium,Handle: @upayr | Sentiment: Neutral | Text: RT @DemandAction: #NRAadvice: Don’t cooperate with police if your gun shows up at a crime scene: http://t.co/c96U10ed1l
+TXT-065,Text,TXT_065,Assault / Violence,N/A,N/A,5.5,Medium,"Handle: @CrimeWatchIndia | Sentiment: Neutral | Text: Arunachal student death: Delhi Police files murder case, magisterial probe ordered - Zee News http://t.co/nJewusvPbX"
+TXT-066,Text,TXT_066,Other,N/A,N/A,4.0,Medium,"Handle: @kaleb_195 | Sentiment: Neutral | Text: What if instead of police dogs, there were giant man-sized police spiders. There would never be crime."
+TXT-067,Text,TXT_067,Assault / Violence,Pontchartrain Park,N/A,5.5,Medium,Handle: @AceXSavage | Sentiment: Neutral | Text: RT @NOLAnews: Police investigating shooting in Pontchartrain Park http://t.co/JFassdU7iv
+TXT-068,Text,TXT_068,Assault / Violence,Pontchartrain Park,N/A,5.5,Medium,Handle: @UptMoneyMike | Sentiment: Neutral | Text: RT @NOLAnews: Police investigating shooting in Pontchartrain Park http://t.co/JFassdU7iv
+TXT-069,Text,TXT_069,Assault / Violence,Pontchartrain Park,N/A,5.5,Medium,Handle: @NOLAnews | Sentiment: Neutral | Text: Police investigating shooting in Pontchartrain Park http://t.co/JFassdU7iv
+TXT-070,Text,TXT_070,Assault / Violence,N/A,N/A,5.5,Medium,"Handle: @KentuckyNewEra | Sentiment: Neutral | Text: Tip helps Clarksville police foil school shooting, CPD says http://t.co/69W4Bkxaf4"
+TXT-071,Text,TXT_071,Other,Simi Valley; Simi Valley's,N/A,4.0,Medium,Handle: @venturajournal | Sentiment: Neutral | Text: Simi Valley sees second-safest year on record: Police said Friday that Simi Valley's crime rate fell to 14.8... http://t.co/QZbDdUzHT5
+TXT-072,Text,TXT_072,Assault / Violence,Pontchartrain Park,N/A,5.5,Medium,Handle: @Louisiana_World | Sentiment: Neutral | Text: Police investigating shooting in Pontchartrain Park: Man shot in Gentilly neighborhood Saturday (Jan. 31) night. http://t.co/k55h9KWFdZ
+TXT-073,Text,TXT_073,Other,N/A,N/A,4.0,Medium,Handle: @JanieBeth325 | Sentiment: Neutral | Text: RT @awkwardposts: Imagine if Police had giant police spiders instead of police dogs. There would be no crime.
+TXT-074,Text,TXT_074,Public Disturbance,N/A,N/A,7.0,High,"Handle: @sofiqnec | Sentiment: Negative | Text: Behind teen’s heroin overdose death, a troubling trend http://t.co/cxb8uv4giR"
+TXT-075,Text,TXT_075,Other,N/A,N/A,4.0,Medium,Handle: @KentuckyNewEra | Sentiment: Neutral | Text: Police searching for victims in alleged child porn bust http://t.co/bFxRozE3FW
+TXT-076,Text,TXT_076,Assault / Violence,Pontchartrain Park,N/A,5.5,Medium,Handle: @crimenola | Sentiment: Neutral | Text: Police investigating shooting in Pontchartrain Park http://t.co/BzP5fIOhAo
+TXT-077,Text,TXT_077,Other,Springfield,N/A,7.0,High,"Handle: @springfldnews | Sentiment: Negative | Text: Police: Drugs, definitions behind crime rise: The number of serious crimes reported to Springfield police... http://t.co/CagUK9Pc4q"
+TXT-078,Text,TXT_078,Public Disturbance,N/A,N/A,7.0,High,"Handle: @sgfnews | Sentiment: Negative | Text: News-Leader: Police: Drugs, definitions behind crime rise http://t.co/F9w3NAuM2K"
+TXT-079,Text,TXT_079,Assault / Violence,Delhi,N/A,8.5,High,"Handle: @lol8u | Sentiment: Negative | Text: RT @SinghRPN: .@AngellicAribam Yes,hv spoken to Delhi police for full and speedy probe,it is the most dastardly crime.shames all of us as I…"
+TXT-080,Text,TXT_080,Other,West Yorkshire’s,N/A,4.0,Medium,Handle: @LeedsDailyNews | Sentiment: Neutral | Text: West Yorkshire’s police commissioner announces two per cent council tax hike: WEST Yorkshire’s police and crime... http://t.co/05x0dIeq57
+TXT-081,Text,TXT_081,Other,San Francisco; Oakland,N/A,7.0,High,"Handle: @oranckay | Sentiment: Negative | Text: ""San Francisco police don’t keep crime stats as well as #Oakland"" http://t.co/IcDYOF9VgI"
+TXT-082,Text,TXT_082,Other,N/A,N/A,7.0,High,"Handle: @CthulhuWillRise | Sentiment: Negative | Text: RT @girlweena: Just heard a police detective say ""interwishin'"" instead of ""intuition"" and am now considering a life of crime."
+TXT-083,Text,TXT_083,Other,N/A,N/A,4.0,Medium,"Handle: @TheGoodGirlHere | Sentiment: Neutral | Text: @stephgrain My response won't change from ""no comment."" If u have knowledge of a crime report to http://t.co/o0J6860Dun local police twitter"
+TXT-084,Text,TXT_084,Public Disturbance,N/A,N/A,7.0,High,Handle: @krs21da | Sentiment: Negative | Text: McLean High School student’s heroin overdose shows disturbing trend facing police http://t.co/tqZiCJ0ReA
+TXT-085,Text,TXT_085,Public Disturbance,N/A,N/A,7.0,High,Handle: @KangenGaa | Sentiment: Negative | Text: McLean High School student’s heroin overdose shows disturbing trend facing police http://t.co/IcOKW2gOiz
+TXT-086,Text,TXT_086,Public Disturbance,N/A,N/A,7.0,High,Handle: @Senanymous404 | Sentiment: Negative | Text: McLean High School student’s heroin overdose shows disturbing trend facing police http://t.co/V8DiQnF9aG
+TXT-087,Text,TXT_087,Public Disturbance,N/A,N/A,7.0,High,Handle: @juanmuriango | Sentiment: Negative | Text: McLean High School student’s heroin overdose shows disturbing trend facing police http://t.co/aCmS22XMt4
+TXT-088,Text,TXT_088,Public Disturbance,N/A,N/A,7.0,High,Handle: @cavinhandoko | Sentiment: Negative | Text: McLean High School student’s heroin overdose shows disturbing trend facing police http://t.co/cuhrnmsmtn
+TXT-089,Text,TXT_089,Public Disturbance,N/A,N/A,7.0,High,Handle: @BazarCalifornia | Sentiment: Negative | Text: McLean High School student’s heroin overdose shows disturbing trend facing police http://t.co/lmetostVCT
+TXT-090,Text,TXT_090,Public Disturbance,N/A,N/A,7.0,High,Handle: @Jsica_GG | Sentiment: Negative | Text: McLean High School student’s heroin overdose shows disturbing trend facing police http://t.co/dSIiQNTVwz
+TXT-091,Text,TXT_091,Other,N/A,N/A,4.0,Medium,"Handle: @Ridgeland_MS | Sentiment: Neutral | Text: Crime prevention education, animal control services &amp; house watch are just a few ways our police force makes citizens feel safe &amp; secure."
+TXT-092,Text,TXT_092,Public Disturbance,N/A,N/A,7.0,High,Handle: @SunjayJK | Sentiment: Negative | Text: @Vote4AAP @AamAadmiParty @MSisodia&gt;RSS etc's Bigotry-Irrationality-Misogyny a Way o Life-80% Ppl w/ NO Civic SENSE-Police Partners of Crime&gt;
+TXT-093,Text,TXT_093,Other,N/A,N/A,4.0,Medium,Handle: @HKateE | Sentiment: Neutral | Text: @pataz1 Her DNA was not found mixed all over the crime scene. Also Perugia's police allowed crime scene to be traipsed over multiple times.
+TXT-094,Text,TXT_094,Public Disturbance,Ramsay Street to Su,N/A,7.0,High,Handle: @J0HNMcTERNAN | Sentiment: Negative | Text: RT @ABCNews24_: Now: Greens Hansen Young says closure of Mt Thomas police station reckless and will increase crime from Ramsay Street to Su…
+TXT-095,Text,TXT_095,Other,N/A,N/A,4.0,Medium,Handle: @HertsPolRural | Sentiment: Neutral | Text: 2/2 Police will assist with injured animals when they are on a highway or where a crime is suspected
+TXT-096,Text,TXT_096,Other,N/A,N/A,7.0,High,Handle: @CarlDamnGrimes | Sentiment: Negative | Text: @NoMoreDemocracy there's crime in it but no police or anything like that.
+TXT-097,Text,TXT_097,Assault / Violence,Delhi,N/A,8.5,High,"Handle: @YoungCongressi | Sentiment: Negative | Text: RT @SinghRPN: .@AngellicAribam Yes,hv spoken to Delhi police for full and speedy probe,it is the most dastardly crime.shames all of us as I…"
+TXT-098,Text,TXT_098,Public Disturbance,N/A,N/A,2.0,Low,Handle: @_duderz | Sentiment: Positive | Text: Heroin sold in McDonald's Happy Meals: Police http://t.co/4ZLnMPX3rc @bskousen we could of been rich!
+TXT-099,Text,TXT_099,Other,N/A,N/A,7.0,High,Handle: @TimesDaily | Sentiment: Negative | Text: Man sentenced for fraud: FLORENCE — A man who police said took advantage of a good Samaritan has been sentence... http://t.co/ZySyaI2YFh
+TXT-100,Text,TXT_100,Other,N/A,N/A,7.0,High,Handle: @ModernWorldHub | Sentiment: Negative | Text: #police #judgment #crime #court http://t.co/yXXZSpnmGO notes 6 #Laws You've Broken Without Even Realizing It http://t.co/cfuzHBt8kN
+TXT-101,Text,TXT_101,Assault / Violence,Delhi,N/A,8.5,High,"Handle: @gopalarvind94 | Sentiment: Negative | Text: RT @SinghRPN: .@AngellicAribam Yes,hv spoken to Delhi police for full and speedy probe,it is the most dastardly crime.shames all of us as I…"
+TXT-102,Text,TXT_102,Public Disturbance,N/A,N/A,4.0,Medium,Handle: @j03_2 | Sentiment: Neutral | Text: RT @DemandAction: #NRAadvice: Don’t cooperate with police if your gun shows up at a crime scene: http://t.co/c96U10ed1l
+TXT-103,Text,TXT_103,Assault / Violence,Delhi,N/A,8.5,High,"Handle: @Pranay_18 | Sentiment: Negative | Text: RT @SinghRPN: .@AngellicAribam Yes,hv spoken to Delhi police for full and speedy probe,it is the most dastardly crime.shames all of us as I…"
+TXT-104,Text,TXT_104,Assault / Violence,N/A,N/A,5.5,Medium,Handle: @Moondamp_Roses | Sentiment: Neutral | Text: Baby Boy Death: 3 Arrested Over Murder http://t.co/rVZCBbtAEi #News #Crime #Police #PoliceAppeal
+TXT-105,Text,TXT_105,Assault / Violence,N/A,N/A,8.5,High,"Handle: @MissingDivision | Sentiment: Negative | Text: RT @AbusedChildren: Richland: Police: Convicted child rapist living in Richland | Crime, fires &amp; court news |... http://t.co/7qfXmTza0l"
+TXT-106,Text,TXT_106,Assault / Violence,N/A,N/A,8.5,High,Handle: @FelicityGamelin | Sentiment: Negative | Text: RT @AsperCat: French police arrest the man who tortured a cat and recorded it for Facebook: The Frenchman who was captured... http://t.co/…
+TXT-107,Text,TXT_107,Assault / Violence,N/A,N/A,8.5,High,"Handle: @DFAC_DTR | Sentiment: Negative | Text: RT @AbusedChildren: Richland: Police: Convicted child rapist living in Richland | Crime, fires &amp; court news |... http://t.co/7qfXmTza0l"
+TXT-108,Text,TXT_108,Public Disturbance,N/A,N/A,4.0,Medium,"Handle: @BmoreBloc | Sentiment: Neutral | Text: RT @BaltoSpectator: I uploaded a new track, ""Lying Bastards Of Baltimore Police"", on @spreaker #baltimore #crime #fascism http://t.co/A8hyR…"
+TXT-109,Text,TXT_109,Other,Delhi,N/A,7.0,High,Handle: @YashveerRaghav | Sentiment: Negative | Text: RT @blackmagicgal1: So AAP will continue to cry foul at Delhi police whenever a crime is reported rather than take responsibility like a go…
+TXT-110,Text,TXT_110,Assault / Violence,N/A,N/A,5.5,Medium,Handle: @skippybkroo | Sentiment: Neutral | Text: RT @bradybuzz: BREAKING NEWS: Judge’s ruling favors officers in Badger Guns suit: http://t.co/QcQP0vLtd4
+TXT-111,Text,TXT_111,Public Disturbance,N/A,N/A,7.0,High,Handle: @OntNewsToday | Sentiment: Negative | Text: Driver blows over legal limit http://t.co/PvczzPY7EB #crime #Police #WestPerth
+TXT-112,Text,TXT_112,Assault / Violence,N/A,N/A,5.5,Medium,Handle: @Rosebud1668 | Sentiment: Neutral | Text: RT @bradybuzz: BREAKING NEWS: Judge’s ruling favors officers in Badger Guns suit: http://t.co/QcQP0vLtd4
+TXT-113,Text,TXT_113,Public Disturbance,N/A,N/A,4.0,Medium,Handle: @CoolNikk | Sentiment: Neutral | Text: RT @flintjournal: Police news: Billboards tout anonymity of new Crime Stoppers hotline; Hamady janitor accused of sexual relatio... http://…
+TXT-114,Text,TXT_114,Other,N/A,N/A,7.0,High,"Handle: @EEEEzz | Sentiment: Negative | Text: RT @girlweena: Just heard a police detective say ""interwishin'"" instead of ""intuition"" and am now considering a life of crime."
+TXT-115,Text,TXT_115,Public Disturbance,N/A,N/A,4.0,Medium,Handle: @Police_Dispatch | Sentiment: Neutral | Text: Wyoming Highway Patrol mourns loss of K-9 unit - Casper Star-Tribune Online http://t.co/w4Iagyh5sx #PoliceNews
