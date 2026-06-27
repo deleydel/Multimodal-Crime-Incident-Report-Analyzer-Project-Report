@@ -39,6 +39,7 @@ derived severity classification per row.
 │   └── crime_text_report.csv           # → Text_ID, Source, Raw_Text, Sentiment, Entities, Topic
 ├── integration/
 │   ├── build_dataset.py                # ★ merges all five CSVs into the unified dataset
+│   ├── dashboard.py                    # ★ Streamlit dashboard for exploring the unified dataset
 │   └── master_incident_dataset.csv     # ★ final unified incident dataset
 ├── README.md                           # this file
 └── requirements.txt                    # consolidated dependencies for the whole pipeline
@@ -164,6 +165,84 @@ Reads the five modality CSVs and writes:
 ```text
 integration/master_incident_dataset.csv
 ```
+
+### 3. Launch the dashboard
+
+```bash
+streamlit run integration/dashboard.py
+```
+
+Opens at **http://localhost:8501** (or the next available port). Press **Ctrl + C** to stop.
+
+---
+
+## Dashboard
+
+`integration/dashboard.py` is an interactive Streamlit web app that reads
+`integration/master_incident_dataset.csv` and lets you explore all 1,031
+unified incidents with live filters and charts.
+
+### Prerequisites
+
+`streamlit` and `plotly` are already in `requirements.txt` and installed by
+`pip install -r requirements.txt`. To install only these two:
+
+```bash
+pip install streamlit>=1.35.0 plotly>=5.18.0
+```
+
+`master_incident_dataset.csv` is shipped in the repo, so the dashboard runs
+immediately without re-executing any extraction pipeline.
+
+### Optional launch flags
+
+| Flag | Purpose | Example |
+|------|---------|---------|
+| `--server.port` | Change port (default 8501) | `--server.port 8080` |
+| `--server.headless true` | Suppress auto-open browser | `--server.headless true` |
+| `--theme.base dark` | Force dark theme | `--theme.base dark` |
+
+```bash
+streamlit run integration/dashboard.py --server.port 8080 --server.headless true
+```
+
+### Sidebar filters
+
+| Control | What it does |
+|---------|-------------|
+| **Data Source** multiselect | Show only Audio / PDF / Image / Video / Text incidents |
+| **Severity Level** multiselect | Filter by Low / Medium / High |
+| **Severity Score** slider | Narrow to a 0–10 score range |
+| **Event Type** multiselect | Pick one or more specific event categories |
+| **Search box** | Free-text search across Event, Location, and Details columns |
+
+All filters are live — every chart and the data table update instantly.
+
+### Main area sections
+
+| Section | Description |
+|---------|-------------|
+| **KPI cards** | Total incidents · High · Medium · Low counts · Average Severity Score |
+| **Incidents by Source** | Donut chart — share of each modality |
+| **Severity by Source** | Stacked bar — Low / Medium / High per source |
+| **Top 15 Event Types** | Horizontal bar chart of the most frequent events |
+| **Severity Score Distribution** | Stacked histogram with Low→Medium and Medium→High threshold lines |
+| **Severity Breakdown** | Grouped bar — Low, Medium, High side-by-side per source |
+| **Modality Spotlight tabs** | One tab per source: KPIs, top-events bar, severity-mix donut, expandable high-severity table |
+| **All Incident Records table** | Scrollable table with colour-coded Severity column (all 9 unified fields) |
+| **Download CSV** | Export the currently filtered rows as a CSV file |
+
+### Refreshing the data
+
+After re-running any modality extractor, regenerate the master dataset and
+Streamlit will auto-detect the file change:
+
+```bash
+python integration/build_dataset.py   # regenerate master_incident_dataset.csv
+streamlit run integration/dashboard.py
+```
+
+---
 
 ### Current run summary
 
