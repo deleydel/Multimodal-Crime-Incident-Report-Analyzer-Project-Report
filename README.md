@@ -39,7 +39,7 @@ derived severity classification per row.
 │   └── crime_text_report.csv           # → Text_ID, Source, Raw_Text, Sentiment, Entities, Topic
 ├── integration/
 │   ├── build_dataset.py                # ★ merges all five CSVs into the unified dataset
-│   └── master_incident_dataset.csv     # ★ final unified incident dataset
+├── final_master_incident_dataset.csv    # ★ final unified incident dataset
 ├── README.md                           # this file
 └── requirements.txt                    # consolidated dependencies for the whole pipeline
 ```
