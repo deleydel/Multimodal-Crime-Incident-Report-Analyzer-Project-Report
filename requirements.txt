@@ -1,0 +1,43 @@
+# =============================================================================
+# Multimodal Crime / Incident Report Analyzer — consolidated dependencies
+# for the WHOLE pipeline (all five modalities + integration layer).
+#
+#   pip install -r requirements.txt
+#
+# System packages required (install with your OS package manager, not pip):
+#   - tesseract-ocr   (OCR backend for pytesseract: pdf + image modalities)
+#   - ffmpeg          (audio decoding for Whisper; video decoding)
+#
+# Extra one-time model/data downloads after install:
+#   python -m spacy download en_core_web_sm     # pdf + text + audio NER
+#   python -m nltk.downloader stopwords punkt    # text modality
+# =============================================================================
+
+# --- Core data engineering / integration -------------------------------------
+pandas>=2.0.0
+numpy>=1.24.0
+
+# --- Computer vision: image + video modalities -------------------------------
+opencv-python>=4.8.0        # frame I/O + motion detection (video), preprocessing (image/pdf)
+ultralytics>=8.0.0          # YOLOv8 object detection
+Pillow>=10.0.0
+
+# --- OCR: image + pdf modalities ---------------------------------------------
+pytesseract>=0.3.10
+inference-sdk>=0.9.0        # optional Roboflow fire-detection model (image)
+
+# --- PDF parsing: pdf modality -----------------------------------------------
+PyMuPDF>=1.23.0             # imported as `fitz`
+pdfplumber>=0.10.0
+rapidfuzz>=3.0.0
+python-dateutil>=2.8.0
+pyspellchecker>=0.7.0       # imported as `spellchecker`
+
+# --- NLP: text + audio + pdf modalities --------------------------------------
+spacy>=3.8.0
+transformers>=4.30.0        # zero-shot classification (text)
+torch>=2.0.0                # backend for transformers
+nltk>=3.8.0
+
+# --- Speech-to-text: audio modality ------------------------------------------
+openai-whisper>=20231117    # imported as `whisper`
