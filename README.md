@@ -119,7 +119,13 @@ Severity_Score = confidence_signal × 10          (range 0 – 10)
   high-priority category (capped at 1.0).
 
 ---
+## Final Master Dataset
 
+The integrated dataset containing all five modalities is available here:
+
+[View or download the final master dataset](integration/master_incident_dataset.csv)
+
+---
 ## How to run
 
 Each modality is **self-contained** — it has its own extraction code and writes
