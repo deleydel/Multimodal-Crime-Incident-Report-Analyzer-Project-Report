@@ -23,6 +23,7 @@ derived severity classification per row.
 ├── pdf/
 │   ├── extract.py                      # PDF→text (OCR), sub-document segmentation, field extraction
 │   ├── pages_cache.json                # shipped OCR cache → rebuilds output.csv without the source PDF
+│   ├── RawPDF.pdf                      # shipped raw pdf file 
 │   └── output.csv                      # → Report_ID, Incident_Type, Date, Location, Officer, Summary, Suspect_Description, Outcome
 ├── images/
 │   ├── image_analyzer.py               # YOLOv8 objects + fire/scene heuristic + OCR
@@ -147,7 +148,7 @@ python -m nltk.downloader stopwords punkt # used by text
 | Modality | Command | Input it reads | Output it writes |
 |---|---|---|---|
 | **Video** | `python video/video_pipeline.py` | `video/data/raw/*.mpg` *(shipped)* + `video/yolov8n.pt` *(shipped)* | `video/output/video_events.csv` |
-| **PDF** | `python pdf/extract.py` | `pdf/pages_cache.json` *(shipped OCR cache)* | `pdf/output.csv` |
+| **PDF** | `python pdf/extract.py` | `pdf/pages_cache.json` *(shipped OCR cache)* + pdf/RawPDF.pdf` *(shipped raw pdf file)* | `pdf/output.csv` |
 | **Image** | `python images/image_analyzer.py` | images placed in `images/sample_images/` | `images/image_report.csv` |
 | **Audio** | open `audio/AudioAnalyst.ipynb`, run all cells | raw 911-call audio *(not shipped)* | `audio/audio_extracted_report.csv` |
 | **Text** | open `text/crime_nlp_pipeline.ipynb`, run all cells | `text/CrimeReport.txt` *(shipped)* | `text/crime_text_report.csv` |
