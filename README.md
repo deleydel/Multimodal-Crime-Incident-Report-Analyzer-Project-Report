@@ -148,7 +148,7 @@ python -m nltk.downloader stopwords punkt # used by text
 
 Reproducibility notes:
 - **Video** and **PDF** reproduce their CSVs out of the box from shipped inputs
-  (PDF rebuilds from the cached OCR, so the original source PDF is not needed).
+  (PDF rebuilds from the cached OCR, however, the original source PDF is also provided).
 - **Image** ships its `image_report.csv`, but the original images are not
   redistributed — drop your own images into `images/sample_images/` to re-run.
 - **Audio** and **Text** are Colab-style notebooks; their output CSVs are
